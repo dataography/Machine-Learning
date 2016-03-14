@@ -1,0 +1,1227 @@
+{1}{81}You told me.. "I love you. "|I told you.. "Wait. "
+{67}{163}I almost said.. "Yes. "|You said.. "Go. "
+{315}{424}JULES AND JIM
+{677}{761}With the Little|SABI NE HAUDEPI N
+{746}{853}With|And the voice of
+{840}{948}Based on the novel by
+{940}{1089}Adaption and Dialogue by|Directed by
+{1073}{1143}Edited by
+{1137}{1222}Music by
+{1213}{1300}Song written by
+{1296}{1366}Director of Photography
+{1525}{1573}It was around 1912.
+{1566}{1644}Jules, a foreigner in Paris,|askedJim, whom he hardly knew,
+{1631}{1683}to get him into the Art Students'Ball.
+{1675}{1767}Jim got him a ticket|and a costume.
+{1751}{1869}WhileJules was hunting for|a slave costume...
+{1848}{1915}their friendship was born.
+{1904}{2042}It grew as Jules watched the ball|with his kind tender eyes.
+{2036}{2147}The next day, they had|their first real conversation.
+{2127}{2218}Each taught the other his language|and his culture until late at night.
+{2202}{2285}They translated|each other's poetry.
+{2284}{2365}They shared|an indifference for money.
+{2352}{2461}They talked,|and they listened to each other.
+{2441}{2526}Jules had no girls in Paris|and he wanted one.
+{2512}{2621}Jim had several.|He introducedJules to a musician.
+{2601}{2712}They were in love for about a week.
+{2693}{2839}Then came a sweet thing|who loved to talk all night.
+{2812}{2907}And a pretty blonde widow|who made them a trio.
+{2890}{2956}She confusedJules.|She found him nice, but clumsy.
+{2946}{3043}She brought him a quiet friend|who was too quiet.
+{3026}{3122}DespiteJim's advice,Jules|got in contact with professionals...
+{3105}{3170}but found no satisfaction.
+{3289}{3332}Let's get to work.
+{3675}{3767}"Down with everything"
+{3751}{3810}No more paint, you bitch.
+{3800}{3861}They'll say|anarchists can't spell, again.
+{3906}{3954}Save me! He's after me!
+{3947}{4012}He's stronger than you!|Let's run!
+{4043}{4091}Can you put me up for the night?
+{4083}{4145}- I'm Therese.|- Of course, Therese.
+{4136}{4203}You can't stay with me.|I've got a date.
+{4192}{4319}Gilberte? ButJules can...|That's me...
+{4296}{4367}And who're you?|Jim and Jules, then?
+{4355}{4413}No,Jules and Jim.
+{4974}{5008}What's that?
+{5021}{5169}It's better than a clock.|When the sand stops, I must go to sleep.
+{5519}{5622}- You'll sleep here and me there.|- I see.
+{5604}{5682}- Got a cigarette?|- Of course.
+{5737}{5802}- Are you Jim?|- No,Jules.
+{5818}{5871}You're sweet.
+{5940}{5999}I'll show you a steam engine.
+{6477}{6515}It's almost dawn.
+{6510}{6608}Jim, you might stay here|with me for once.
+{6591}{6635}No, Gilberte.
+{6629}{6721}If I stayed only once,|I'd feel guilty.
+{6705}{6807}If I stayed longer,|we'd be almost married.
+{6789}{6884}- That's against our rules!|- What a twisted mind.
+{6868}{6954}And the cat doesn't like|to stay at home alone.
+{6939}{7017}Besides, it's morning.
+{7004}{7093}Just imagine that I'm going to work.
+{7196}{7293}You're going home to sleep until noon.
+{7786}{7904}No, it was Shakespeare.
+{7983}{8049}Give me a dime for the music.
+{8038}{8136}It was Shakespeare,|I tell you.
+{8305}{8360}Do you have a cigarette?
+{8536}{8628}Can you put me up for the night?|I'm Therese.
+{8817}{8952}Forget it. There are more|where she came from.
+{8944}{9054}I wasn't in love with her.
+{9034}{9115}She was both mother and daughter to me.
+{9160}{9223}I'm not lucky in Paris.
+{9213}{9299}Good thing I know girls back home.
+{9288}{9354}I love one, Lucie.
+{9344}{9413}She refused to marry me.
+{9401}{9496}I've decided to wait 6 months,|and ask her again.
+{9507}{9590}There's another, too.|Birgitta.
+{9576}{9643}And there's Elga.
+{9632}{9732}I'd love her|if I didn't love Lucie.
+{9714}{9788}This is what she looks like.
+{9881}{9987}Jules sketched a woman's face|on the table.
+{10026}{10091}Jim wanted to buy the table...
+{10081}{10166}but the owner wanted|to sell the whole set.
+{10237}{10266}Albert.
+{10296}{10346}This is Jim, a French friend.
+{10482}{10540}Hello. I think we've met before.
+{10579}{10626}Sit down.
+{10716}{10781}- Jim had asked...|- Who is Albert?
+{10771}{10853}The artists'friend.
+{10839}{10952}He knows everyone|who'll be famous in ten years.
+{11031}{11097}This is more exotic.
+{11086}{11175}She looks like an Incan statue.
+{11188}{11303}This one is somewhat Romanesque.
+{11283}{11405}It's weathered because|I found it in the garden.
+{11383}{11445}It was out in the rain for years.
+{11435}{11557}This one is very touching.
+{11583}{11671}Reminds you of a decaying face.
+{11656}{11781}Strange to see stone|worked so flabbily.
+{11879}{11957}This face has beautiful lips.
+{11944}{12026}They're scornful.|Admirable eyes, too.
+{12092}{12169}May we see that last one again?
+{12232}{12305}I made a close-up of it, too.
+{12293}{12360}The slide showed|a woman's face...
+{12349}{12423}whose tranquil smile gripped them.
+{12432}{12565}The statue was in an outdoor museum|on an Adriatic island.
+{12541}{12615}They left immediately to see it.
+{12602}{12661}They wore|the same white outfits.
+{12822}{12917}They stared at the face|for an hour.
+{12900}{12964}It stunned them into silence.
+{12954}{13065}They were speechless.|Had they ever met such a smile?
+{13045}{13152}No. If they ever met it,|they would follow it.
+{13158}{13255}Jules andJim|returned home dazzled.
+{13255}{13287}Paris greeted them gently.
+{13728}{13826}- How is your book?|- It's coming along.
+{13844}{13957}It will be rather autobiographical.
+{13937}{14019}Our friendship had|a major part in it.
+{14005}{14049}I'd love to have you read|an excerpt from it.
+{14043}{14076}Please do.
+{14251}{14310}"Jacques and Julien were inseparable.
+{14301}{14368}Julien's last novel|was successful.
+{14357}{14443}In it, he described|the enchanting women he had known...
+{14429}{14510}...before he had metJacques|and even Lucienne.
+{14496}{14552}Jacques was proud ofJulien.
+{14545}{14598}People called them|Don Quixote and Sancho Panza...
+{14589}{14689}and they never knew that neighbors|found their friendship ambiguous.
+{14672}{14734}They ate together|in small restaurants.
+{14724}{14833}They bought for one another|the best cigars. "
+{14814}{14868}It's beautiful.
+{14859}{14997}Let me translate it into German.
+{14972}{15024}Now, for a shower.
+{15108}{15173}My cousin just wrote me.
+{15174}{15278}Three girls he knows|are coming to Paris.
+{15260}{15345}One is German, one is Dutch,|and one is French.
+{15331}{15420}They're coming to dinner tomorrow.
+{15405}{15463}I want you to join us.
+{15587}{15691}Catherine, the French girl,|was the statue.
+{15674}{15741}She had the same smile, nose,|mouth, chin, and forehead.
+{15731}{15799}As a child, she had|been idolized in her hometown...
+{15787}{15828}during a religious celebration.
+{15823}{15863}It started almost like a dream.
+{15857}{15979}As your host, I propose...
+{15957}{16105}that we would abolish|all formalities forever...
+{16084}{16222}by drinking my best wine|in brotherhood.
+{16196}{16309}Instead of linking arms|in the usual way...
+{16289}{16395}let us touch feet under the table.
+{16376}{16484}Jules was happy|and moved his feet away.
+{16465}{16537}Jim's foot stayed near Catherine's.
+{16525}{16593}She moved hers away first.
+{16616}{16689}Jules smiled happily...
+{16677}{16744}as he beamed at the others.
+{16776}{16823}Jules vanished for a month.
+{16816}{16860}He saw Catherine alone...
+{16853}{16951}but the two friends|met at the gymnasium.
+{17017}{17054}Excellent.
+{17058}{17157}Why don't you spend the evening|with Catherine and me?
+{17232}{17284}I've talked about you so much...
+{17276}{17398}Catherine is anxious|to know you better...
+{17376}{17486}but not this one,Jim. Okay?
+{17644}{17694}Hello, Mr. Jim.
+{17780}{17890}Pronounce his name in English,|not French.
+{17939}{18022}"Jeem" doesn't suit him.
+{18162}{18254}Do you like our friend Thomas?
+{18248}{18312}Can we go out with him?
+{18316}{18425}Not bad. A moustache would help.
+{18707}{18769}Now for a test in the street.
+{19005}{19107}Excuse me, sir.|Do you have a match?
+{19215}{19256}Thank you, sir.
+{19322}{19385}She was proud|of her clever disguise.
+{19375}{19470}The men were moved,|but didn't really understand why.
+{19454}{19553}- Either it's raining or I'm dreaming!|- It might be both.
+{19738}{19804}Then if it's raining,|let's go to the seashore.
+{19805}{19834}We go tomorrow.
+{19878}{19967}Let's have a race.
+{19952}{20033}First one to the end of the bridge.
+{20634}{20697}- You cheated.|- But I won.
+{20687}{20726}Thomas always wins.
+{20720}{20806}He speaks three languages,|he swims like a fish.
+{20792}{20839}Can he stand on his hands?
+{20832}{20872}You'll teach him.
+{20903}{20986}Can you come to my flat tomorrow...
+{20972}{21074}to help take my baggage|to the station?
+{21104}{21139}She's a strange breed.
+{21134}{21241}Her father was an aristocrat,|her mother wasn't.
+{21222}{21351}He came from Burgundy.|Her mother was English.
+{21328}{21402}That's why she's not average...
+{21390}{21460}and she teaches everyone.
+{21449}{21523}- Teaches what?|- Shakespeare.
+{21571}{21681}Jim took it for granted|that she belonged toJules.
+{21662}{21745}Catherine wore that calm smile.
+{21730}{21818}It was natural and said everything.
+{21914}{21992}I'm almost ready.|I just have to put on my dress.
+{21994}{22065}- Never put a hat on a bed.|- Do we take the bike?
+{22265}{22299}And the bag, too?
+{22376}{22459}- What are you doing?|- I want to burn lies.
+{22479}{22518}Give me a match.
+{22747}{22836}- Oh, my God!|- Don't move.
+{23104}{23186}- Are you alright?|- Hand me the dress.
+{23172}{23210}It's by the bed.
+{23356}{23430}- Got a broom?|- It's under your nose.
+{23922}{23960}Can you help me?
+{24183}{24212}Thanks.
+{24350}{24399}We'll take this, too.
+{24428}{24460}What is it?
+{24456}{24538}Vitriol, for the eyes of men who lie.
+{24532}{24606}That bottle will break|and ruin your things.
+{24594}{24659}Besides, you can buy Vitriol anywhere.
+{24648}{24712}- Is that true?|- Yes.
+{24702}{24761}But not this bottle.
+{24752}{24821}I swore I'd only use this bottle.
+{25793}{25836}It took them a while...
+{25829}{25932}to find the house of their dreams|along the coast.
+{25915}{26010}It was too big and isolated,|solemn, white, and empty.
+{26071}{26139}- Sleep well?|- Very well.
+{26128}{26226}- Is Jim awake?|- I don't know.
+{26328}{26412}- How is everyone else?|- Everyone else is fine.
+{26441}{26478}What a nice day.
+{26492}{26552}Hurry, let's go to the beach.
+{26695}{26788}Let's find the last signs|of civilization.
+{26772}{26824}A piece of tire.
+{26893}{27035}- Look, a bottle!|- An old shoe.
+{27233}{27351}A can!|Watch out back there.
+{27473}{27524}Look, Catherine.
+{27652}{27726}Watch out, it's steep.
+{27816}{27856}A postcard.
+{27981}{28039}A piece of porcelain.
+{28068}{28141}A cup and a cigarette butt.
+{28273}{28393}- A pack of English cigarettes.|- I'm afraid we're lost, kids.
+{28724}{28806}Do you think I should marry her?
+{28792}{28851}Answer me honestly.
+{28842}{28915}Is she cut out|to be a wife and mother?
+{28903}{29013}I'm afraid she will never|be happy on this earth.
+{28994}{29095}She has a vision. Maybe|she can't belong to just one man.
+{29077}{29141}- Let's go.|- No.
+{29130}{29212}This time, I won't move.|I give up.
+{29576}{29671}Help me, kids.
+{30037}{30120}Let's go, kids.
+{30704}{30758}At last, I read a book I liked.
+{30749}{30828}A writer, a German, of course...
+{30815}{30896}who dares to say out loud|what I think inside.
+{30882}{30991}The sky that we see is merely|a small hollow ball...
+{30972}{31031}no bigger than that.
+{31022}{31142}And we walk|with our heads towards the center.
+{31383}{31494}The attraction pulls towards|the outside under our feet...
+{31474}{31600}towards that solid crust|in which the bubble is enclosed.
+{31578}{31637}How thick is the crust|and what's beyond it?
+{31627}{31656}Go and see.
+{31653}{31732}That's not a question|to discuss between gentlemen.
+{32022}{32084}Answer me tomorrow, Catherine.
+{32074}{32116}If you say no...
+{32110}{32250}I will ask you every year again|on your birthday.
+{32224}{32270}You've known few women.
+{32264}{32351}I've known plenty of men.|It averages out.
+{32336}{32424}We might make an honest couple.
+{32732}{32827}I've proposed to her.|She almost said yes.
+{32988}{33074}At fifteen,|I was in love with Napoleon.
+{33062}{33148}I dreamt I met him in an elevator.
+{33133}{33221}We had a child|and I never saw him again.
+{33241}{33296}Poor Napoleon.
+{33294}{33373}I was taught:|Our father who arts in heaven.
+{33360}{33442}I thought it said arts.
+{33428}{33573}I imagined my father with an easel|painting in Paradise.
+{33586}{33675}I believe I've said something funny.
+{33670}{33798}At least, amusing.|You might try to smile.
+{33980}{34088}Will anyone present|scratch my back?
+{34069}{34140}The Lord scratches|those who scratch themselves.
+{34170}{34243}The Lord scratches those...
+{34331}{34397}You two taught me how to laugh.
+{34387}{34439}Before, I always looked glum.
+{34594}{34687}But that's all over.
+{34911}{35010}It's raining. Come and see.
+{35088}{35170}I miss Paris.|Let's go back, please.
+{35157}{35221}We'll be there tomorrow night.
+{35763}{35828}I've sold my book.
+{35836}{35899}This is for Catherine.
+{35900}{35941}This is for both of you.
+{36014}{36127}- What is it?|- A back-scratcher.
+{36303}{36389}I'm taking you|to the theater tonight.
+{36413}{36540}- What will we see?|- A new Swedish play.
+{36559}{36598}It starts at nine.
+{36592}{36687}When the sand stops,|we'll get dressed.
+{36728}{36806}Jim saw his friends often.
+{36793}{36866}He liked to be with them.
+{36854}{36974}Jules'two pillows|were now side by side.
+{36953}{37026}Catherine learned to live again.
+{37320}{37379}I still like that girl.
+{37380}{37497}She wants to be free.|She invents her own life.
+{37476}{37547}- Doesn'tJim agree?|- No.
+{37556}{37600}It's a confused|and self-indulging play.
+{37593}{37672}The writer revels in vice|to preach virtue.
+{37659}{37756}We don't even know|when or where it's taking place.
+{37739}{37828}He doesn't say|if the heroine is a virgin.
+{37826}{37871}That's not important.
+{37865}{38005}Usually not, but since he explains|that the hero is impotent...
+{37980}{38050}that his brother is gay|and that the sister is a nymphomaniac...
+{38038}{38112}why should he dismiss the heroine?
+{38100}{38158}That's all in your mind.
+{38149}{38224}Yes, and you help us think of it.
+{38229}{38282}No psychology tonight.
+{38274}{38358}It's not psychology,|it's metaphysics.
+{38343}{38446}In a couple,|the wife must be faithful.
+{38428}{38499}The husband doesn't count.
+{38487}{38614}Who wrote: "Woman is natural,|therefore abominable?"
+{38591}{38680}Baudelaire. But he meant|a certain class.
+{38665}{38766}Not at all.|He meant women in general.
+{38748}{38814}Here's how he describes|a young girl:
+{38803}{38946}"Monster, assassin of the arts.|Little fool, little slut.
+{38920}{39025}A blend of idiocy and depravity. "
+{39007}{39103}Wait, that's not all.|This is marvelous:
+{39087}{39218}"I wonder why women are|allowed to enter churches.
+{39204}{39316}What could they hope|to say to God?"
+{39328}{39396}- You're a pair of fools.|- I haven't said anything.
+{39385}{39492}And I don't approve|of whatJules says at 2 in the morning.
+{39518}{39590}- Then protest!|- I am protesting.
+{39792}{39850}Jim never forgot that jump.
+{39841}{39939}He drew it the next day,|though he was not an artist.
+{39922}{40013}His admiration for Catherine|struck him like lightning...
+{39998}{40057}as he blew her an invisible kiss.
+{40048}{40077}He didn't worry.
+{40073}{40183}He was swimming with her mentally,|and held his breath to frightenJules.
+{40188}{40224}Catherine, why?
+{40313}{40348}You're crazy.
+{40630}{40696}Her hat drifted away.
+{40929}{41018}Jules was pale, silent,|unsure of himself, and more handsome.
+{41003}{41142}Catherine had a triumphant smile.
+{41117}{41162}No one spoke about herjump.
+{41217}{41314}- I've arrived.|- Please, Mr. Jim.
+{41297}{41392}- No,justJim.|- JustJim.
+{41389}{41493}I want to ask you some advice.
+{41486}{41595}Can you meet me tomorrow|at 7 in our café?
+{41576}{41609}Yes.
+{41604}{41732}- She wants to talk to you.|- Right, I'll be there at 7.
+{42185}{42259}- Are you joking?|- I never joke.
+{42246}{42314}I've no sense of humor.
+{42345}{42466}I know people who have.|My wife's friends, working relations.
+{42445}{42528}But personally, I never joke.
+{42580}{42676}Jim was late, as usual,|because he was an optimist.
+{42659}{42752}He was afraid she had already left.
+{42749}{42834}Jim thought.. 'A girl like that...
+{42819}{42898}would probably not have waited.
+{42885}{42948}A girl like that|might have just walked in...
+{42938}{43032}without noticing me|behind my newspaper, and left. "
+{43015}{43102}He kept repeating..|'A girl like that. "
+{43087}{43137}But what was she like?
+{43130}{43225}For the first time,|he began to think of her.
+{43306}{43365}Another coffee, please.
+{43403}{43491}Another glass.
+{44654}{44732}Did I wake you up,Jim?
+{44719}{44822}We're going to my country,|to get married.
+{44838}{44986}Tell her I'm sorry I was late.|I waited almost till 8.
+{44960}{45033}She's more optimistic than you.
+{45021}{45110}She was at the hairdresser...
+{45094}{45165}and arrived at 8|to have dinner with you.
+{45154}{45255}If I had known she'd come,|I could have waited until midnight.
+{45237}{45352}Catherine wants to speak to you.
+{45356}{45442}I'm very happy,Jim.
+{45427}{45505}Jules will teach me French boxing.
+{45492}{45574}With an Austrian accent.
+{45560}{45686}I've lost my accent!|My French is perfect!
+{45663}{45711}Listen to the Marseillaise.
+{46529}{46584}A few days later, war was declared.
+{46576}{46664}Jules andJim were separated|by their uniforms...
+{46648}{46699}and lost touch for a long time.
+{48197}{48261}The war was never ending.
+{48251}{48321}Gradually, it became|like a normal life...
+{48309}{48368}tempered by the different seasons.
+{48359}{48485}A normal life with dead beats, routines,|pauses, and even distractions.
+{48715}{48784}Gilberte sent parcels toJim.
+{48772}{48884}He almost saw her a few times,|but each time his leave was canceled.
+{48904}{48998}Then, in 1916,|he spent a week in Paris.
+{49012}{49144}Don't marry me for my parcels.|We're fine as we are.
+{49120}{49208}All right,|but I know this will last.
+{49193}{49314}- How is Jules?|- No news of him since his wedding.
+{49293}{49382}Sometimes, I'm afraid|I'll killJules during a battle.
+{49638}{49679}My darling...
+{49696}{49756}I never stop thinking of you.
+{49759}{49847}Not of your soul.|I don't believe in it anymore.
+{49846}{49941}But of your body...
+{49939}{50038}and our son who is inside you.
+{50052}{50169}I've no more envelopes.|I don't know how to mail this letter.
+{50180}{50253}I am going to the Russian front.
+{50266}{50325}It will be tough...
+{50342}{50475}but I prefer it because|I was afraid to kill Jim here.
+{50483}{50523}My darling...
+{50555}{50625}let me kiss you.
+{52025}{52119}Jules'country lost the war.|Jim's had won.
+{52102}{52176}But they were both victorious|since they were alive.
+{52165}{52289}They began to write each other again.
+{52266}{52345}Catherine andJules lived|in a cottage near the Rhine.
+{52332}{52404}They had a daughter, Sabine.
+{52392}{52540}Jim wroteJules.. "Tell me,|should I marry and have children, too?"
+{52514}{52606}Jules replied..|"Come and judge for yourself. "
+{52590}{52647}Catherine signed the invitation.
+{52638}{52746}Jim left,|but he delayed his arrival.
+{52727}{52800}He walked along the Rhine,|and stopped in several towns.
+{52788}{52903}He was writing about Germany|after the war for a Paris paper.
+{52915}{53000}He wanted to see|his battlegrounds again.
+{53042}{53110}In some places, the land|had been bombarded so heavily...
+{53099}{53227}that nothing could ever|grow on it again.
+{53212}{53349}They became cemeteries whereJim|looked on graves for familiar names...
+{53324}{53421}cemeteries that were being shown|to schoolchildren.
+{53779}{53859}Catherine was waiting at the station|with her daughter.
+{53845}{53933}Her eyes were shining with joy.
+{54199}{54255}- Hello,Jim.|- Hello, Catherine.
+{54246}{54366}- This is Sabine.|- Hello, Mr. Jim.
+{54379}{54428}Let's go.|Jules is anxious to see you.
+{54440}{54552}Her deep voice madeJim think|she had finally made their date...
+{54532}{54591}and had dressed up|especially for him.
+{54582}{54702}She took him to their cottage,|surrounded by pines and near a hill.
+{55415}{55493}- How are the others?|- Oh, the others, you know.
+{55646}{55712}- You haven't changed,Jim.|- You haven't changed,Jules.
+{55701}{55752}So, no one has changed.
+{56079}{56109}Sit down.
+{56161}{56191}Come here, Sabine.
+{56649}{56678}No, thanks.
+{56689}{56751}- You want some?|- Just a little.
+{56873}{56993}No, thanks. I stopped smoking|when I started to love plants.
+{57170}{57239}An angel is passing by.
+{57366}{57425}Of course, it's twenty past one.
+{57466}{57501}So?
+{57496}{57579}Angels always pass by|at twenty past.
+{57631}{57739}- I didn't know that.|- Neither did I.
+{57886}{57946}At twenty past|and twenty to as well.
+{58022}{58145}So you won the war, you louse.
+{58123}{58205}I'd rather have won this.
+{58276}{58350}You must be hungry. Let's eat.
+{58374}{58451}Afterwards, I'll show you the house.
+{58557}{58676}Jim here,Jules over there.|And Sabine next to me.
+{58754}{58805}How is your new novel?
+{58797}{58882}These articles won't let me finish it.
+{58868}{58992}I work on them all week,|write them Friday night...
+{58969}{59053}and send them airmail|the next day. And you?
+{59039}{59126}I am doing a book on dragonflies.
+{59111}{59181}I am writing it for a publisher.
+{59170}{59252}Catherine is illustrating it.
+{59238}{59386}Even Sabine helps.|She goes with me into the swamps.
+{59365}{59484}I'm going to build|a pond in the garden.
+{59463}{59611}One day, perhaps, I may become literary|and write a love story...
+{59584}{59692}with insects as characters.
+{59691}{59829}I have a bad tendency to specialize.
+{59819}{59922}I admire your versatility,Jim.
+{59927}{60053}Oh, me, I'm a failure. Sorel,|my teacher, taught me all I know.
+{60037}{60119}"What do you want to do," he asked me.|I said I wanted to be a diplomat.
+{60105}{60168}"Do you have money?"|"No. "
+{60158}{60305}"Are you related to anyone famous?"|"No. "
+{60278}{60395}"Then forget about diplomacy!"|"But what can I become?"
+{60374}{60430}"Curious. "|"That's no career. "
+{60421}{60471}"Not yet.
+{60493}{60553}Travel, write, translate.
+{60544}{60641}Learn to live anywhere,|beginning now.
+{60624}{60684}There's a future in it.
+{60676}{60764}The French have ignored the world|for too long.
+{60765}{60839}A paper will always|pay for your fun. "
+{60892}{60973}Jules thinks you have|a bright future.
+{60959}{61076}So do I,|but it may not be spectacular.
+{61113}{61193}Jules works and sleeps here.
+{61179}{61267}We're as organized as a monastery.
+{61253}{61307}Jules writes his books...
+{61298}{61401}and hunts his insects.
+{61384}{61482}Mathilde, who you saw,|comes from a nearby farm.
+{61465}{61549}She helps me|with the house and Sabine.
+{61599}{61628}My room.
+{61738}{61772}That's Jules!
+{61768}{61911}Yes, his father liked Mozart so much|that he once disguised him as Mozart.
+{61938}{61984}Here is the balcony.
+{62122}{62194}Over there is the inn|where you'll sleep.
+{62182}{62241}Jules will take you there later.
+{63993}{64066}Jules and"J"im|carried on their conversation.
+{64054}{64156}They tajked about the war.|Jules avoided tajking about his famijy.
+{64138}{64200}Catherine was kind and tough...
+{64190}{64268}but"J"im fejt something was wrong.
+{64479}{64571}To bed, sleepyhead.
+{64555}{64630}Once upon a time...
+{64635}{64692}there was a little sleepyhead...
+{64742}{64847}- Good night, Sabine.|- Good night,Jim. See you tomorrow.
+{64898}{64968}- Good night,Jules.|- I want to talk to you.
+{65077}{65197}- What do you think of her?|- Marriage and motherhood suit her.
+{65176}{65269}She's less of a grasshopper|and more of an ant.
+{65348}{65377}Be careful.
+{65390}{65476}True, she keeps order in our home.
+{65472}{65591}But if things go too smoothly,|she changes.
+{65581}{65680}She becomes a tyrant in her words.
+{65663}{65732}Yes, she has a Napoleonic side.
+{65741}{65815}She believes the world is rich...
+{65803}{65903}and that one can cheat a little.
+{65885}{65965}She begs God|to forgive her in advance.
+{65953}{65991}She is sure that He will.
+{66035}{66108}I'm afraid she'll leave us.
+{66121}{66225}- Impossible!|- No, she has done it already.
+{66219}{66316}It lasted 6 months.|I gave up hope.
+{66299}{66367}She's ready to do it again.
+{66384}{66454}She's not really my wife,Jim.
+{66442}{66515}She has had three lovers.
+{66503}{66636}One was a fling the day before|our wedding, to bury her youth.
+{66612}{66694}And one as revenge|for something I did.
+{66680}{66724}I don't know what.
+{66773}{66832}I'm not the man she needs...
+{66823}{66892}and she won't accept that.
+{66897}{67008}I'm used to her|being unfaithful to me at times...
+{67004}{67078}but I couldn't stand to see her go.
+{67099}{67221}- But there's Albert.|- The singer who found the statue?
+{67200}{67303}Yes, it was he who showed it to us.
+{67286}{67331}He was wounded in the war.
+{67325}{67415}He's convalescing|in a village near here.
+{67411}{67511}Catherine encourages him|and gives him hope.
+{67511}{67611}He has spoken about her to me.
+{67593}{67670}He wants to marry her|and take the child.
+{67683}{67752}I hold no grudge against him.
+{67740}{67807}I have nothing against him nor her.
+{67823}{67886}I am slowly renouncing her...
+{67916}{67990}and all I had expected from the world.
+{67989}{68102}That's what she likes about you.|That Buddhist side of yours.
+{68107}{68183}She's usually kind and generous...
+{68183}{68309}but when she thinks|she is not appreciated...
+{68286}{68389}she becomes terrible, and suddenly|goes from one extreme to the other...
+{68372}{68427}with sudden attacks.
+{68468}{68540}Listen to that mole-cricket.
+{68541}{68608}It's like a mole.
+{68638}{68713}Jim could see the cottage|from his bedroom window.
+{68702}{68805}Catherine was there,|a queen ready to flee.
+{68786}{68838}Jim wasn't surprised.
+{68830}{68918}He recalled"J"ules'mistakes|with other girls.
+{68903}{68973}Catherine, he knew, was precise.
+{68962}{69059}Jim felt sorry for"J"ules,|but he could not condemn her.
+{69042}{69128}She jumped at men|the way she had jumped into the river.
+{69113}{69175}The house was under a cloud.
+{69192}{69251}Another week began.
+{69408}{69550}- Time to go to bed, Sabine.|- Okay, Mommy.
+{70058}{70171}I need to speak to you later,Jim.|Will you be free?
+{70341}{70489}Words change meaning|from one language to another...
+{70462}{70509}when they change gender.
+{70503}{70651}In German, war and death are masculine,|unlike in French...
+{70633}{70743}while sun and love are feminine.
+{70846}{70924}- Life is neuter.|- Life is neuter?
+{70911}{71003}Very pretty and very logical.
+{71127}{71216}Skirts became short in France, too,|during the war.
+{71201}{71280}Married soldiers hated that.
+{71267}{71336}They felt betrayed...
+{71325}{71416}but it was because|the fabric was scarce.
+{71401}{71471}Yes, and women|cut their hair short...
+{71459}{71543}to avoid danger in factories.
+{71529}{71656}It's time you start to|appreciate German beer,Jim.
+{71633}{71728}Jim is like me! He's French.|He couldn't care less about German beer.
+{71711}{71767}- Not at all.|- What?
+{71759}{71862}French wines are the best in Europe,|in the world even.
+{71844}{71975}Look at the clarets:|Château Lafite, Château Margaux.
+{72045}{72128}That's not all. There are others.
+{72114}{72200}The burgundies: Romane, Chambertin...
+{72185}{72262}Beaume, Pommard, Chablis, Volnais.
+{72250}{72339}And Beaujolais wines:|Pouilly-Fuissé...
+{72324}{72419}Moulin à Vent, Fleurie,|Morgon, Saint Amour.
+{72404}{72541}We stared at the shell|as it rolled down the steps.
+{72516}{72611}Three steps, two steps.|Lie down.
+{72611}{72640}Catch me.
+{73260}{73357}- What do you want to know?|- Nothing. I want to listen.
+{73340}{73430}- To judge me?|- Certainly not.
+{73482}{73586}I have nothing to tell you.|I want to question you.
+{73587}{73671}The question is:|tell me aboutJim.
+{73682}{73825}- Okay, but tell you what?|- Anything, but tell me point-blank.
+{73810}{73875}Jim told of two young men|which he didn't name...
+{73865}{73968}and told the story|of their friendship in Paris...
+{73951}{74064}and how they met a certain girl.
+{74043}{74186}He told of... Not that one,"J"im.|There, he had to say his own name.
+{74160}{74239}He told of their friendship,|of their trip by the sea.
+{74227}{74332}Catherine saw that"J"im remembered|everything about her.
+{74314}{74399}She argued on a few points|and added other details.
+{74384}{74504}He described their date, told her|how he perceived all three of them.
+{74484}{74632}He said he always knew|that"J"ules could never keep Catherine.
+{74624}{74716}- You'd have said that in the café?|- Yes.
+{74719}{74808}- Go on.|- That's all there is.
+{74808}{74850}There was the war...
+{74863}{74948}my joy to seeJules again,|my seeing you at the station...
+{74933}{75002}the happy days|I've spent with you here...
+{75009}{75094}what I have seen, what I have learned,|what I have guessed...
+{75080}{75183}that pending cloud, I mean Albert.
+{75165}{75283}- Are you against me?|- No more than Jules is.
+{75280}{75381}Let me tell|my side of the story now.
+{75363}{75473}Jules conquered me|with his generosity...
+{75454}{75535}his innocence, and his vulnerability.
+{75522}{75596}He was such a contrast to other men.
+{75602}{75697}I hoped to cure him|of his insecurities...
+{75682}{75768}but I learned|they were part of him.
+{75765}{75874}We were happy,|but our happiness did not last...
+{75855}{76003}and we became two people, not one.
+{76018}{76115}His family was torture for me.
+{76098}{76171}At a reception before our wedding...
+{76170}{76261}Jules' mother|offended me very deeply.
+{76246}{76307}Jules said nothing.
+{76298}{76446}I punished him by spending a few hours|with an old lover, Harold.
+{76423}{76472}Yes, a lover.
+{76466}{76600}So I was able to marryJules|with all accounts squared.
+{76603}{76692}Luckily, his family moved away.
+{76692}{76796}The war broke out.|Jules went to the Russian front.
+{76796}{76912}He wrote me love letters,|wonderful letters.
+{76904}{76993}I loved him more at a distance.|He became a saint again.
+{76979}{77086}Things really went wrong|during his first leave.
+{77068}{77143}I felt as if I was|in the arms of a stranger.
+{77131}{77218}He left: Sabine was born|nine months later.
+{77203}{77247}She doesn't look very much likeJules.
+{77241}{77309}Believe what you want,|but she's his.
+{77298}{77398}I said, "I've given you a child.|That's enough.
+{77381}{77486}I want my own bedroom.|I want my own freedom. "
+{77468}{77542}Remember our friend, Fortunio?
+{77547}{77634}He was free. So was I.
+{77619}{77721}He was a sweet partner.|What a vacation.
+{77703}{77797}But he was too young to be serious.
+{77798}{77852}One day, to my surprise...
+{77859}{77966}I missed Jules and his indulgence.
+{77948}{78039}My daughter attracted me|like a magnet.
+{78024}{78067}I left.
+{78073}{78133}I've been back for three months.
+{78182}{78269}Jules is no longer my husband.
+{78254}{78387}Don't feel sorry for him.|My presence alone satisfies him.
+{78393}{78441}Then there is Albert.
+{78435}{78556}He told me of that statue you loved|which resembles me.
+{78535}{78579}I flirted with him.
+{78572}{78684}He can be strange, but he has|a natural strength thatJules doesn't.
+{78664}{78779}He wants to leave everything,|marry me and take me and my daughter.
+{78759}{78831}So far, I like him. That's all.
+{78819}{78905}He's coming to lunch tomorrow.|I'll see.
+{78890}{78969}I talked more than you did.
+{78956}{79043}I didn't say everything.|Neither did you.
+{79028}{79092}Perhaps I've had other men.|That's my business.
+{79083}{79165}I spoke only of what you mentioned.
+{79151}{79227}- I understand.|- I don't want you to.
+{79227}{79282}It's almost dawn.
+{79288}{79394}Jim desired her,|but he kept repressing that desire.
+{79376}{79492}She had to stay.|Was "J"im acting for"J"ules?
+{79472}{79561}Or for himself?.|He would never know.
+{79740}{79813}Perhaps she was seducing him,|although"J"im was unsure.
+{79801}{79949}But she revealed her goals|only when she achieved them.
+{80218}{80275}- Hello, Sabine.|- Hello, Albert.
+{80266}{80372}- How are you? How is your mother?|- Fine.
+{80546}{80588}Hello, Albert.
+{80631}{80735}- You sacrificed your moustache?|- Yes, everyone did.
+{80718}{80787}But I don't like it.|Now I feel naked.
+{80775}{80822}I'll let it grow back.
+{80816}{80887}Albert was wounded...
+{80875}{80917}in the trenches.
+{80911}{80978}I'm all right now,|but when I woke up...
+{80967}{81077}and saw the doctors probing inside|my skull, I thought of Oscar Wilde.
+{81059}{81123}God, spare me physical pain.
+{81113}{81180}I'll take care of the moral pain.
+{81169}{81232}What's revolting about war...
+{81223}{81321}is that it deprives man|of his own individual battle.
+{81303}{81437}Yes, but even in the midst of war,|he can fight it.
+{81414}{81518}I knew a soldier in the hospital.
+{81500}{81603}On leave, he met a girl on a train.
+{81586}{81654}They talked between Nice and Marseilles.
+{81643}{81730}She left and gave him her address.
+{81715}{81837}Well, he wrote her every day|for two years from the trenches...
+{81816}{81883}by candlelight, during battles.
+{81872}{81958}His letters became more intimate.
+{81943}{82083}At first, he wrote: "Dear Miss,"|and ended with, "Yours truly. "
+{82058}{82164}Soon he called her "My little lamb"|and asked for her picture.
+{82146}{82247}Then she became "My adorable lamb. "|First: "I kiss your hand. "
+{82229}{82312}Then: "Your forehead. "
+{82298}{82381}She sent him a picture...
+{82367}{82458}and he wrote that he could see|her breasts through her robe.
+{82443}{82552}He became more blunt.|"I love you terribly. "
+{82534}{82647}He wrote to her mother|and proposed marriage.
+{82626}{82748}He became her fiancé|without having seen her again.
+{82727}{82844}As the war continued,|his letters became more intimate.
+{82823}{82950}"I take you, my love.|I hold your adorable breasts.
+{82927}{83012}I hold you naked against my body. "
+{82998}{83118}She wrote a cold letter,|and he begged her to be serious...
+{83097}{83181}for he could die at any time,|and he was right.
+{83167}{83305}This mad affair|by correspondence could exist...
+{83280}{83366}only in the violence|of trench warfare...
+{83351}{83453}with death always nearby.
+{83460}{83549}So this man fought the war...
+{83534}{83638}but he fought|his own battle as well...
+{83620}{83718}and he won a woman by mail.
+{83729}{83818}He had a head wound, too,|when he arrived at the hospital...
+{83803}{83862}but he was less lucky.
+{83852}{83952}He died the day|before the Armistice.
+{83959}{84046}In his last letter, he wrote her...
+{84031}{84120}"Your breasts are|the only bombs I've loved. "
+{84104}{84180}I'll show you some photos of him.
+{84168}{84230}If you flip through them quickly,|he seems to be moving.
+{84221}{84265}Pretty story.
+{84260}{84345}Jules wrote me|beautiful letters too.
+{84354}{84432}Hello, Albert.|Have you finished my song?
+{84420}{84507}Let's go upstairs|and work on it together.
+{85046}{85162}A rocking chair|has a rhythm of its own.
+{85168}{85262}- What about the song?|- It's almost ready.
+{85246}{85325}Yes. Let's go.
+{85476}{85545}It's too good for them...
+{85534}{85599}but we've no other audience.
+{85711}{85799}She wore rings on every finger
+{85784}{85861}More bracelets than I can tell
+{85849}{85925}And she was the kind of singer
+{85913}{85997}To put me under a spell
+{85983}{86067}She had eyes, eyes of opal
+{86052}{86123}They fascinated me
+{86112}{86182}Her pale face was an oval
+{86170}{86231}What a fatal femme fatale
+{86300}{86367}We met with a kiss
+{86356}{86424}A hit, then a miss
+{86412}{86479}It wasn't all bliss
+{86468}{86541}And we parted
+{86529}{86599}We went our own ways
+{86588}{86657}In life's whirlpool of days
+{86645}{86716}I saw her again one night
+{86705}{86779}Again she was an enchanted sight
+{86842}{86921}I recognized her after a while
+{86909}{86977}By her mysterious smile
+{86965}{87033}Her face in an oval|Her eyes of opal
+{87022}{87093}Affected me more than ever
+{87081}{87151}I drank as I heard her sing
+{87140}{87209}Alcohol lets time lose its sting
+{87197}{87265}I drank far too much
+{87254}{87328}I awoke to her touch
+{87382}{87461}We met with a kiss
+{87449}{87512}A hit, then a miss
+{87502}{87569}It wasn't all bliss
+{87558}{87629}But we started
+{87618}{87688}We went our own ways
+{87676}{87741}In life's whirlpool of days
+{87731}{87798}Again I saw her one night
+{87787}{87861}Again her smile was a light
+{87932}{87991}When you kiss
+{87982}{88044}Why miss
+{88035}{88094}When you return
+{88085}{88159}Why be stern
+{88147}{88212}Together, we make our ways
+{88202}{88265}In life's whirlpool of days
+{88255}{88322}We go round and round
+{88311}{88451}Together bound|Together bound
+{88592}{88730}Each saw her in his own light.|She couldn't please them all.
+{88706}{88815}Jim could only admire|Catherine alone.
+{88796}{88870}He felt he was in the way.
+{89249}{89306}- Good night.|- Good night.
+{89327}{89451}Our affection is new. We should|let it rest like a newborn baby.
+{89454}{89557}You were in love,Jim.|I can feel that.
+{89540}{89626}- Why didn't you marry her?|- It didn't work out.
+{89611}{89691}- What is she like?|- Quiet and patient.
+{89678}{89771}Gilberte says she'll wait|for me forever.
+{89756}{89815}You still love her,|and she loves you?
+{89837}{89985}- Don't make her suffer.|- I need adventures and risks.
+{89989}{90066}There's been a change too.
+{90139}{90248}I admire you.|I enjoy seeing you.
+{90230}{90328}- I'm afraid I'll forgetJules.|- You must not forget him.
+{90311}{90353}Warn him.
+{90545}{90589}Translate that!
+{90583}{90716}The yearnings of two hearts|create such heavenly pain.
+{90692}{90766}Not bad.
+{90755}{90878}Though you added the heavenly.|Good night.
+{90856}{90936}Give my regards to the others.
+{90924}{91017}I'd like to read Goethe tonight.|May I have it?
+{91001}{91096}- I lent it toJim.|- Too bad.
+{91104}{91181}- Good night,Jim.|- Good night.
+{91193}{91251}I'll bring it tomorrow.
+{91651}{91726}You must bring it now.
+{91714}{91778}She insists on reading it tonight.
+{91797}{91886}Jim, she doesn't want me anymore.
+{91897}{92000}I'm afraid she will disappear|from my life.
+{91982}{92074}The last time I saw you with her...
+{92058}{92126}you looked like a couple.
+{92115}{92178}Love her, marry her...
+{92169}{92229}and let me see her.
+{92220}{92323}I mean, if you love her,|don't think I'm an obstacle.
+{94090}{94159}Jim had waited for her all day.
+{94148}{94219}She came into his arms gravely.
+{94226}{94301}Their first kiss lasted all night.
+{94289}{94360}They were silent|as they drew close.
+{94348}{94406}Later, they remained silent.
+{94397}{94500}Her face expressed|strange joy and curiosity.
+{94482}{94539}Jim was prisoner.
+{94530}{94596}No other woman existed for him.
+{94685}{94727}Your turn.
+{95208}{95303}I've asked Jim|to move into the house.
+{95287}{95348}He'll take the small room.
+{95470}{95531}Careful,Jim.
+{95522}{95611}Be careful for both of you.
+{96342}{96399}This is your room.
+{96414}{96537}The books are in German,|but I've got others in my room.
+{96571}{96665}I'll unpack your bag.|I think it will do.
+{96674}{96765}The rest is a mess...
+{96750}{96808}but we can't help that.
+{96798}{96940}- What is on the other side?|- Sabine and Mathilde's room.
+{97070}{97141}The bed isn't too bad.
+{97129}{97194}Sit down next to me.
+{97293}{97359}I've always liked|the nape of your neck.
+{97349}{97458}That was the only part of you|I could look at without being seen.
+{98101}{98154}What aboutJules?
+{98146}{98205}He loves us both.
+{98196}{98321}This won't surprise him.|He won't suffer.
+{98299}{98388}We shall love him and respect him.
+{98442}{98547}In the village they were|known as the three lunatics...
+{98529}{98587}but they were accepted.
+{98578}{98669}When she found that out, Catherine|invented a game.. the village idiot.
+{98654}{98754}The village was the table.|They took turns as the idiot.
+{98737}{98811}Sabine made them laugh.
+{99572}{99669}Catherine believed|that love was short...
+{99652}{99728}but constantly recurring.
+{99716}{99777}Life was a vacation|for all of them.
+{99768}{99869}Jules and"J"im|had never lived so intensely.
+{99851}{99910}Time went by.
+{99901}{99992}Happiness can't be told, but|it wears off without anyone noticing it.
+{100017}{100089}One day, she decided|to seduce"J"ules.
+{100077}{100136}While"J"im was reading downstairs...
+{100128}{100194}she took "J"ules into her room.
+{100184}{100280}Jules said no,|but Catherine said yes.
+{100905}{101033}Jim said he wasn't jealous,|but he was.
+{101009}{101123}She saw this and never|repeated the experiment.
+{101136}{101202}One day, they walked around a lake...
+{101192}{101287}hidden in the mist of a green valley.
+{101271}{101332}The harmony between them was perfect.
+{101323}{101436}Catherine had a headache,|so did"J"im.
+{101416}{101509}If they had children, he thought,|they would be tall...
+{101494}{101565}thin and have headaches too.
+{101553}{101625}They played on the shore|of the lake.
+{101613}{101737}She made him throw stones. She and|Jules learned how to skip stones.
+{101739}{101798}The sky was so close to them.
+{102057}{102130}Jim had to return to Paris.
+{102118}{102175}His paper needed him.
+{102166}{102269}But they knew he would return...
+{102251}{102308}and things would remain the same.
+{102299}{102418}Their perfect month|was engraved into them.
+{102434}{102519}They waved at each other as he left.
+{102504}{102639}Jules gave them his blessings|and promised to take care of her...
+{102616}{102690}for they wanted to marry.
+{102882}{102958}Jules is willing to divorce.
+{102946}{103017}I'm going to marry Catherine.
+{103005}{103081}I want to have children with her.
+{103069}{103147}Jules will find me work|in his country.
+{103135}{103258}Right now, I'm translating|an Austrian play.
+{103289}{103346}Where are you going?
+{103337}{103395}- Home.|- I'll go with you.
+{103386}{103461}I'd rather you didn't.
+{103571}{103629}Hello,Jim.
+{103620}{103720}It's me, Therese.|The steam engine.
+{103702}{103779}Therese, how are you?|How is...
+{103767}{103843}It lasted two weeks.|I cheated on him.
+{103831}{103925}He found out, got jealous,|stopped trusting me.
+{103910}{103984}He locked me up for three weeks.
+{103972}{104045}I was flattered, then furious.
+{104033}{104102}I got out on a painter's ladder|with the painter.
+{104090}{104166}I got impatient.|A guy wants to make me rich.
+{104154}{104241}I follow him to Cairo|where he puts me up in a house.
+{104299}{104370}An Englishman rescues me.
+{104359}{104469}I move into his villa by the Red Sea,|play tennis, ride horses.
+{104450}{104526}Then I get a letter.
+{104514}{104592}- Hello, is Jules in Paris?|- No, he didn't come.
+{104579}{104694}I go to wreck the wedding.|I marry him.
+{104674}{104763}Hello,Jim. How is your buddy?
+{104748}{104845}- Still with the same girl?|- Always.
+{104829}{104916}He was serious.|He thought I wasn't.
+{104901}{104976}My husband divorced me finally.
+{104964}{105030}My undertaker married me.
+{105020}{105083}It's a perfect marriage,|but no children.
+{105074}{105210}I've neither time nor energy|to be unfaithful.
+{105186}{105309}So I'm writing my memoirs for|the Sunday Times Magazine in Europe.
+{105288}{105354}My husband.
+{105399}{105463}- What about you,Jim?|- I'm getting married.
+{105678}{105766}- How's Jules?|- All right.
+{105807}{105911}Interesting, isn't she?|Her name is Denise.
+{105893}{105965}She won't talk to you.
+{105954}{106040}She never talks.|She's not stupid.
+{106025}{106133}She's empty.|It's all empty in there.
+{106114}{106190}- She's a thing.|- Pretty thing.
+{106178}{106265}Yes, beautiful. It's just sex.
+{106250}{106307}Pure sex.
+{106333}{106430}- Say good-bye, Denise.|- Sir.
+{106526}{106605}Catherine spent the winter at home|in front of the fireplace.
+{106592}{106668}She was "J"im's fiancée,|on loan to"J"ules.
+{106656}{106713}Every day she asked"J"ules...
+{106704}{106763}"Do you think "J"im loves me?"
+{106797}{106869}Listen to me, Gilberte.
+{106857}{106942}If Catherine wants something...
+{106927}{107013}and she thinks|no one will be hurt...
+{106999}{107077}she may be wrong,|but she'll do it...
+{107064}{107138}to learn from the experience.
+{107126}{107211}It's her way of achieving wisdom.
+{107196}{107258}That can last a long time.
+{107249}{107306}Don't be mean.
+{107321}{107399}I'm not mean. I'm jealous.
+{107427}{107513}I knew it would end this way.
+{107545}{107616}Don't leave tomorrow.
+{107604}{107703}You'll give her your life,|so just give me one more week.
+{107710}{107809}Jim couldn't leave Gilberte.|Catherine couldn't leave"J"ules.
+{107792}{107866}They couldn't hurt|Jules or Gilberte...
+{107853}{107959}who belonged to the past|and who each played the same role.
+{107941}{108067}"TellJules I saw Therese.|She's married and is writing.
+{108045}{108110}I have to delay|my trip back once again...
+{108101}{108177}but soon I'll be free,|ready for you.
+{108165}{108254}I must still say a few good-byes.
+{108268}{108334}A few good-byes. "
+{108394}{108454}Do you thinkJim loves me?
+{108546}{108637}- Hello,Jules.|- Hello.
+{108622}{108676}What's wrong?
+{108667}{108752}Why didn't Catherine|come to meet me?
+{108738}{108862}She disliked your letters. You talked|about your work, your good-byes.
+{108840}{108943}She didn't like your absence.|You were gone too long.
+{108926}{109009}When she is in doubt,|she can do anything.
+{108995}{109105}- Is she waiting for us?|- Yes, I think so.
+{109785}{109857}I didn't want to tell you.
+{109845}{109953}She left yesterday morning|without saying a word.
+{109935}{110043}I had hoped that she would|be back before your arrival.
+{110025}{110084}Aren't you worried?
+{110075}{110171}You mean, is she in danger?
+{110238}{110342}She is merely doing|something irreparable.
+{110349}{110444}I told you,|she disliked your letters.
+{110428}{110502}"Therese is married|and has become a writer.
+{110490}{110549}I must say a few good-byes. "
+{110565}{110702}No, Catherine never|does anything halfway.
+{110678}{110796}She's an irresistible force|that can't be stopped.
+{110775}{110864}Her harmony is never|shaken because...
+{110849}{110924}she knows she is always innocent.
+{110912}{111020}- You speak of her as if she was a queen.|- She is a queen.
+{111020}{111085}Let me be frank.
+{111075}{111193}She's not especially beautiful|or intelligent or sincere...
+{111172}{111231}but she is a real woman.
+{111222}{111285}And that is why we love her...
+{111275}{111343}and all men desire her.
+{111379}{111480}Despite this,|why did she make us a gift...
+{111463}{111526}of her presence?
+{111516}{111630}Because we treated her|like a queen.
+{111610}{111699}You know, I almost stayed in Paris.
+{111683}{111767}I knew it could never last.
+{111777}{111866}Even our friendship suffers.
+{111852}{111934}At times, I'm jealous|of your years with her.
+{111920}{112001}And I hate you|for not being jealous of me.
+{111988}{112053}Do you believe that?
+{112044}{112173}I'll do anything|not to lose her completely.
+{112149}{112216}You will, too, when she returns...
+{112206}{112264}for she always returns.
+{112255}{112358}Listen, I'm going back to Paris.
+{112340}{112429}Tell her you didn't see me|at the station.
+{112414}{112483}It's the only solution.
+{112529}{112665}I see. I met the train,|but you weren't on it.
+{112853}{112954}Hello. What's the matter?
+{113089}{113146}You've just arrived.
+{113179}{113289}You're mine and I'm yours.|All is well.
+{113270}{113346}But in your letters,|you said you had things to do.
+{113334}{113439}So did I.|You said good-bye to your loves.
+{113422}{113504}I decided to say good-bye to mine.
+{113490}{113608}You'll hold me in your arms|all night long, but that's all.
+{113588}{113681}We want a child, don't we?
+{113666}{113789}Well, if I had one now,|I wouldn't know if it was yours.
+{113767}{113824}Do you understand?
+{113840}{113932}- I had to do it.|- Do you love Albert?
+{113917}{113991}- No.|- Does he love you?
+{113979}{114150}Yes. You must believe me.|It was your only chance.
+{114119}{114207}Albert equals Gilberte.
+{114192}{114255}You don't say anything?
+{114245}{114315}We must start with a clean slate.
+{114304}{114433}A clean slate and no debts.|That was her creed.
+{114409}{114483}And nothing happened.
+{114472}{114565}She slept,|but"J"im's eyes remained open.
+{114549}{114671}He realized that they were|being drawn together.
+{114650}{114756}So they started all over again,|flying high like birds of prey.
+{114738}{114874}They restrained until she was sure|she didn't bear Albert's child.
+{114850}{114963}This restraint exalted them.|They were always together.
+{114943}{115022}They never cheated.|The promised land was in view.
+{115101}{115171}And The Promised Land Faded
+{115160}{115303}They realized that Catherine|was not pregnant with their child.
+{115277}{115357}They saw a specialist who told them|that this was not uncommon...
+{115344}{115418}and that these things took time|with most couples.
+{115578}{115635}What's wrong?
+{115626}{115691}I want to sleep alone tonight.|Go to your room.
+{115682}{115757}- Why?|- I just want to.
+{115745}{115829}- Explain.|- There's nothing to explain.
+{115814}{115889}I'll just stay with you.|That's all.
+{115878}{115936}That's not true.
+{115927}{116029}I don't want you to stay.|I'm disgusted.
+{116011}{116069}It's a nightmare|when the night comes.
+{116059}{116159}When I think of that child we will|never have, I feel I'm taking a test.
+{116142}{116248}- I can't stand it.|- Our love is all that counts.
+{116230}{116304}No, because I count too...
+{116291}{116360}and I love you less.
+{116349}{116425}Let's stay away from each other.
+{116413}{116520}I may still love you,|but I'll run that risk.
+{116502}{116612}Go to Gilberte|since she writes you every day.
+{116593}{116739}- You are not fair.|- I know, but I'm heartless.
+{116712}{116833}That's why I don't love you|and why I'll never love anyone.
+{116812}{116886}Besides, I'm 32, and you are 29.
+{116875}{116992}When I'm 40,|you'll want a girl of 25...
+{116971}{117054}and I'll be left alone|like a fool.
+{117070}{117184}You may be right.|I'll leave for three months.
+{117202}{117268}Are you hurt?
+{117258}{117322}I'm not anymore.
+{117313}{117387}We should never be hurt|both at once.
+{117374}{117474}When you stop suffering,|I'll start.
+{117617}{117677}Am I disturbing you?
+{117824}{117889}I can't stand it.
+{117879}{118004}- Did you hear us arguing?|- No, I was working.
+{117982}{118083}I can't stand him.|I'm going mad.
+{118066}{118146}I'm glad he's going tomorrow.|Good riddance.
+{118133}{118205}Don't be unfair.
+{118193}{118251}You know he loves you.
+{118242}{118344}I really don't know anymore.
+{118352}{118409}He lied to me.
+{118400}{118501}He didn't drop Gilberte. He doesn't|even know what he wants himself.
+{118483}{118601}I love her. I don't love her,|but I will, maybe.
+{118613}{118709}I can't help it|if we didn't have a child.
+{118693}{118797}- Got a cigarette?|- You want one?
+{119048}{119151}- Want me to talk to him?|- No, please don't.
+{119133}{119219}I'm half for him|and half against him.
+{119204}{119278}But I want him to go.
+{119266}{119361}We've decided to separate|for three months.
+{119345}{119403}What do you think?
+{119418}{119507}I don't know.|It may be a good idea.
+{119493}{119563}You won't say what you think.
+{119575}{119632}I know you despise me.
+{119670}{119786}No, I shall never despise you.
+{119838}{119902}I shall always love you...
+{119893}{119985}no matter what you do,|no matter what happens.
+{119989}{120046}Is that true?
+{120127}{120190}I love you too.
+{120274}{120363}We were happy, weren't we?
+{120349}{120408}But we are happy.
+{120398}{120507}I mean, I am.
+{120489}{120549}Is that true?
+{120573}{120683}Yes, let's always stay together...
+{120688}{120777}like an old couple,|with Sabine...
+{120762}{120832}and our grandchildren.
+{120963}{121021}Stay near me.
+{121041}{121144}I don't want to see him|before he goes.
+{121126}{121199}Then stay here.
+{121187}{121266}I'll sleep downstairs.
+{121626}{121684}My little Catherine.
+{121703}{121776}Often you remind me...
+{121789}{121909}of a Chinese play I saw|before the war.
+{121888}{121973}The curtain rises|and the emperor...
+{121958}{122051}turns to the audience and says...
+{122065}{122162}"I am the unhappiest man on Earth...
+{122145}{122218}because I have two wives.
+{122206}{122311}My first wife and my second wife. "
+{122907}{123030}Their love was now relative,|but to"J"ules it was absolute.
+{123050}{123111}The next morning|Jim left the house.
+{123102}{123176}Catherine took him to the station.
+{123164}{123241}A mist settled over the valley.
+{123229}{123349}The hive felt that"J"im|has lost favor with its queen.
+{123328}{123385}He had to go.
+{124026}{124096}We can't see the house.
+{124266}{124351}The railway schedule had been changed.
+{124337}{124402}The train left the next day.
+{124571}{124659}One always feels guilty|in a hotel room.
+{124644}{124762}I'm not very moral,|but I dislike it.
+{124741}{124828}Don't tell me you don't.|I wouldn't believe you.
+{125088}{125174}Jim thought of their children.
+{125159}{125250}He imagined a houseful|of beautiful children.
+{125235}{125314}He knew that if they had none...
+{125302}{125360}Catherine would have affairs again.
+{125375}{125462}They were silent in the gloomy|hotel room, but they made love.
+{125447}{125569}They didn't know why. Maybe|it was their way to end their story.
+{125547}{125667}It was like a funeral|and as if they were already dead.
+{126104}{126232}The next day she took him|to his train, but they did not wave.
+{126210}{126316}They separated,|though nothing forced them.
+{126298}{126397}It's all over now,|Jim told himself once again.
+{126885}{127011}- Your medicine and a letter.|- Thanks.
+{127100}{127196}I think I'm pregnant.|Come. Catherine.
+{127180}{127267}Gilberte, please give me|some writing paper.
+{127252}{127343}Catherine, I am in bed|and very ill.
+{127328}{127419}Besides, I doubt|that your child is mine.
+{127404}{127536}One night could not succeed|where love failed.
+{127512}{127623}"Where love failed. "
+{127604}{127714}You are right.|That illness is a joke.
+{127695}{127802}I'll write and say|you want to see him.
+{127784}{127909}Dear Hypochondriac,|come as soon as you can.
+{127887}{127955}Catherine awaits a letter.
+{127945}{128017}Write in big letters|for her eyes are tired...
+{128005}{128109}and she cannot read|small handwriting.
+{128130}{128200}She doesn't think I was ill.
+{128188}{128246}I don't think she is pregnant.
+{128237}{128308}In any case,|I doubt that I'm the father.
+{128296}{128355}I've got reasons to doubt.
+{128346}{128420}Our past, Albert and the rest.
+{128408}{128495}Since you're going out,|could you mail this letter?
+{128480}{128522}Certainly.
+{128732}{128806}Oh, there's a letter for you.
+{128829}{128903}I'm late. See you later.
+{128980}{129030}I love you,Jim.
+{129023}{129139}So many unbelievable things|turn out to be true.
+{129118}{129177}I'm going to have a child.
+{129168}{129318}Let us thank God,Jim.|I am sure you are the father.
+{129291}{129414}I beg you to believe me.|Your love is now alive within me.
+{129393}{129462}You must believe me.
+{129450}{129523}This paper is your skin.|This ink is my blood.
+{129511}{129603}I'm pressing on my pen.|Please, answer me.
+{129955}{130059}Darling, I believe you.|I am going to you.
+{130042}{130131}All that is good within me|comes from you.
+{130143}{130217}They had promised|never to call each other.
+{130205}{130276}They couldn't talk|if they couldn't touch each other.
+{130264}{130358}The mail took three days.|Their letters crossed.
+{130343}{130497}I've got reasons to doubt.|Our past, Albert and the rest.
+{130469}{130554}I will stop thinking of you,|so that you can stop thinking of me.
+{130540}{130629}You disgust me, but that is wrong.
+{130614}{130675}Nothing should ever be disgusting.
+{130756}{130827}My"J"im,your long letter|changes everything.
+{130816}{130937}In two days you'll be here.|Not a letter, but you.
+{130916}{131024}Let's forget our differences.|They are gone.
+{131005}{131125}Come back to me soon,|even late at night.
+{131105}{131166}At last,"J"im received|a letter from "J"ules.
+{131182}{131279}"Your child died|before it could be born.
+{131263}{131334}To Catherine, you died with it. "
+{131346}{131412}They had created nothing.
+{131402}{131502}Jim thought,|new laws are beautiful...
+{131485}{131593}but it's more practical|to obey old ones.
+{131574}{131647}We played with life and lost.
+{132019}{132076}I don't believe it.
+{132067}{132134}- You gave up your cottage?|- Yes.
+{132124}{132183}We're living in France now.
+{132174}{132260}We've rented an old mill|on the Seine.
+{132246}{132357}We must see each other.|Drop in tomorrow.
+{132380}{132439}Please tell me about Catherine.
+{132431}{132516}For a long time,|I feared she'd commit suicide.
+{132501}{132566}She had bought a gun.
+{132556}{132647}She would say,|"So-and-so killed himself'...
+{132632}{132740}like others say,|"So-and-so died of cholera. "
+{132722}{132852}She seemed to be in mourning.|She looked like she'd been ill.
+{132828}{132972}She moved in slow motion|with a dead smile on her face.
+{132987}{133049}Gilberte, this is my friend Jules.
+{133072}{133225}Jim has told me so much about you.|I feel like I know you.
+{133299}{133359}Does Catherine know|you've come to see me?
+{133350}{133446}Yes. She's inviting you|for a ride in her car.
+{133430}{133510}I'd like you|and maybe your wife to come.
+{133497}{133630}- She won't accept, but I will.|- I've got to go now.
+{133640}{133744}No,Jules! You can't wear a hat|like that, at least not in France.
+{133726}{133800}Here. Take mine.
+{133880}{133952}- Hello.|- Hi.
+{133940}{134002}Come. It's over there.
+{134304}{134368}She's in a good mood today.
+{134358}{134416}Don't jar her.
+{134445}{134502}Your place is beautiful.
+{134493}{134578}Look at her car.
+{134774}{134816}It's Jim.
+{135177}{135281}Catherine smiled,|but she looked mysterious.
+{135264}{135397}She took her white pajamas|and wrapped them in a neat parcel.
+{135402}{135487}Jim wondered why|and then forgot about it.
+{135472}{135537}They went for a drive.
+{136345}{136419}I'm hungry. Let's eat here.
+{137114}{137181}Albert, what are you doing here?
+{137171}{137228}Getting some fresh air.
+{137276}{137350}Besides, I live here.
+{137339}{137425}- Will you eat with us?|- Sure, if we eat now.
+{137410}{137503}- You got a date?|- Perhaps.
+{137978}{138082}Please give me my parcel.|Good night.
+{138297}{138384}She's done it again.
+{138369}{138426}I didn't expect it.
+{138417}{138507}I thought she'd use|a new leading man.
+{138492}{138600}- Albert is an old story.|- He was perfect for tonight.
+{138581}{138654}Leave her the car.
+{138642}{138782}She thinks that in a couple, at least|only one person needs to be faithful.
+{138758}{138858}- The other-|- I must go home.
+{138840}{138915}You saw that I'm not living alone.
+{138903}{139001}- I'm going to marry Gilberte.|- You're wiser than I am.
+{138985}{139097}You've realized that when it's over|with Catherine, it's all over.
+{139078}{139153}Gilberte will make a good wife.
+{139141}{139198}She's very beautiful.
+{139441}{139538}Jim recognized Catherine's car.
+{139522}{139603}First he saw nothing.
+{139590}{139708}Then he saw the car|weaving on the empty square...
+{139687}{139790}like a riderless horse,|like a ghost ship.
+{140461}{140562}What a night.|I made a mistake.
+{140544}{140629}That life was dead for me.
+{140614}{140685}It was a desert,Jim.
+{140673}{140745}I kept looking for you.
+{140733}{140797}Then come right away.
+{141147}{141262}Lie down next to me.|Kiss me.
+{141242}{141339}There's something I must tell you.
+{141322}{141364}Say it.
+{141470}{141580}I found a passage|you had marked in a book.
+{141586}{141650}"On a ship, a woman made love...
+{141640}{141742}to a stranger in her mind. "
+{141724}{141803}It struck me as a confession.
+{141791}{141879}That's how you explore the universe.
+{141863}{141937}I feel that curiosity too.
+{141926}{141984}Perhaps everyone does.
+{141975}{142082}I overcome it for your sake,|but you don't.
+{142102}{142165}In love, I agree with you...
+{142155}{142229}a couple is not ideal.
+{142251}{142340}Just look around you.
+{142325}{142399}You wanted something better...
+{142387}{142461}by refusing to submit|to hypocrisy.
+{142474}{142580}You wanted to invent love.
+{142595}{142701}But pioneers must be|humble and unselfish.
+{142683}{142773}Let's face it.
+{142758}{142860}We have failed in everything.
+{142898}{142964}You tried to change me.
+{142984}{143091}I tried to spread joy,|but I've created only pain.
+{143115}{143213}I promised to marry Gilberte...
+{143197}{143286}but I can't postpone|my promise endlessly.
+{143270}{143338}It's counterfeit.
+{143328}{143421}I've no longer any hope|of marrying you.
+{143406}{143523}Catherine, I am going|to marry Gilberte.
+{143502}{143579}We can still have children.
+{143590}{143670}How touching.
+{143701}{143819}What about me?|What about me?
+{143836}{143916}What about the children I wanted?
+{143903}{143998}- You didn't want any.|- I did.
+{144053}{144129}They would have been beautiful.
+{144345}{144403}You are going to die.
+{144394}{144482}You disgust me,Jim.|I'm going to kill you.
+{144591}{144673}You're a coward. You're scared.
+{146563}{146714}Jim was glad to see"J"ules|and to see that Catherine left him cold.
+{146687}{146782}She tried not to leave them alone|and suggested a ride.
+{146766}{146830}Jim agreed.|But where to?
+{146844}{146966}Catherine drove fast|and carelessly.
+{146945}{147092}Something was in the air,|just like the day they met Albert.
+{147065}{147168}They stopped in a café by a pond.
+{147150}{147281}- Now they're burning books.|- It's unbelievable.
+{147428}{147530}Catherine found|you were easy to get...
+{147512}{147577}and hard to keep.
+{147567}{147677}Your love vanished and returned...
+{147658}{147738}with hers.
+{147725}{147829}I never knew those ups and downs.
+{147812}{147895}Mr. Jim, I've something to tell you.
+{147881}{147941}Will you come with me?
+{148065}{148127}Watch us,Jules.
+{148726}{148803}Jules would no longer dread,|as he had from the beginning...
+{148791}{148855}her unfaithfulness|and that he might lose her...
+{148845}{148904}since she was gone now.
+{148895}{148969}Their bodies were found|in the river.
+{148957}{149020}Jim's coffin was huge.
+{149011}{149076}It dwarfed Catherine's.
+{149066}{149178}They left nothing of themselves.|But"J"ules had his daughter.
+{149184}{149279}Did Catherine merely|seek excitement? No.
+{149264}{149331}But she had dazed"J"ules.
+{149320}{149389}He was overcome with relief.
+{149460}{149552}The friendship of"J"ules and"J"im|had no equivalent in love.
+{149536}{149601}They enjoyed little things together.
+{149592}{149666}They accepted their differences|with tenderness.
+{149654}{149780}Everyone called them|Don Quixote and Sancho Panza.
+{151315}{151419}The ashes were placed in an urn.
+{151425}{151490}Jules might have mixed them.
+{151480}{151590}Catherine wanted hers|to be cast to the wind...
+{151572}{151644}but that was not permitted.

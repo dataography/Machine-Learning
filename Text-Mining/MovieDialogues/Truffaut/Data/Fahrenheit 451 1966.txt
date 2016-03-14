@@ -1,0 +1,5430 @@
+1
+00:00:18,601 --> 00:00:21,080
+An Enterprise Vineyard
+production.
+
+2
+00:00:21,120 --> 00:00:23,600
+Oskar Werner,
+Julie Christie...
+
+3
+00:00:24,080 --> 00:00:26,564
+In
+Fahrenheit 451.
+
+4
+00:00:26,599 --> 00:00:30,559
+Co-starring: Cyril Cusack,
+Anton Diffring,
+
+5
+00:00:30,599 --> 00:00:34,557
+Jeremy Spenser,
+Bee Duffeil, Alex Scott.
+
+6
+00:00:34,597 --> 00:00:38,597
+Screenplay by François Truffaut
+and Jean-Louis Richard.
+
+7
+00:00:38,636 --> 00:00:40,596
+From a novel
+by Ray Bradbury.
+
+8
+00:00:40,631 --> 00:00:43,076
+Music by Bernard Herman.
+
+9
+00:00:43,116 --> 00:00:45,595
+Director of Photography:
+Nicholas Rowe.
+
+10
+00:00:46,115 --> 00:00:48,114
+Colour by Technicolor.
+
+11
+00:00:48,149 --> 00:00:50,079
+Art Director:
+Sid Caine.
+
+12
+00:00:50,115 --> 00:00:54,113
+Production and Costume Design
+Consultant: Tony Walton.
+
+13
+00:00:54,153 --> 00:00:56,593
+Film Editor:
+Thom Noble.
+
+14
+00:00:56,632 --> 00:01:00,071
+Associate Producer:
+Mickey Delamar.
+
+15
+00:01:00,112 --> 00:01:02,611
+Produced by Lewis M. Allen.
+
+16
+00:01:02,647 --> 00:01:05,111
+Directed by François Truffaut.
+
+17
+00:02:07,696 --> 00:02:09,661
+Hello.
+
+18
+00:02:09,697 --> 00:02:11,660
+- Get out! Hurry!
+- What? Who is that?
+
+19
+00:02:11,696 --> 00:02:14,175
+Get moving! For god's
+sake, get out of there!
+
+20
+00:02:14,215 --> 00:02:16,695
+Hello?
+
+21
+00:06:50,394 --> 00:06:53,912
+Montag, here.
+
+22
+00:06:57,393 --> 00:07:01,910
+Well... What sort
+were these then, Montag?
+
+23
+00:07:02,391 --> 00:07:05,670
+I didn't really look, sir.
+A little bit of everything.
+
+24
+00:07:05,711 --> 00:07:08,909
+- Novels, biographies, adventure stories.
+- Oh, routine, eh?
+
+25
+00:07:08,949 --> 00:07:12,429
+Why will they do it?
+It's sheer perversity.
+
+26
+00:07:12,908 --> 00:07:15,388
+By the way...
+
+27
+00:07:15,428 --> 00:07:18,907
+What does Montag do
+with his day off duty?
+
+28
+00:07:18,948 --> 00:07:21,427
+Not very much, sir.
+Mow the lawn.
+
+29
+00:07:21,466 --> 00:07:23,906
+And what if the law
+forbids that?
+
+30
+00:07:23,947 --> 00:07:25,906
+Just watch it grow, sir.
+
+31
+00:07:25,941 --> 00:07:28,904
+Uh-huh.
+Good.
+
+32
+00:07:28,945 --> 00:07:33,424
+Good. Montag might be hearing
+some exciting news in a day or two.
+
+33
+00:07:33,464 --> 00:07:36,383
+Benedict won't be with us
+very much longer,
+
+34
+00:07:36,423 --> 00:07:40,383
+- And Montag's name has been mentioned.
+- Promotion, sir?
+
+35
+00:07:40,422 --> 00:07:43,942
+I trust that the thought
+makes Montag happy.
+
+36
+00:08:38,010 --> 00:08:41,529
+I think we're neighbours.
+I live near block 813.
+
+37
+00:08:41,568 --> 00:08:44,489
+Isn't that where you live? Yes, I do.
+
+38
+00:08:44,529 --> 00:08:47,527
+Do you know we make the same
+trip together almost every day?
+
+39
+00:08:47,567 --> 00:08:49,492
+Do we?
+Hmm.
+
+40
+00:08:49,527 --> 00:08:51,493
+That's why
+I thought to myself,
+
+41
+00:08:51,527 --> 00:08:54,526
+Well, we ought
+to talk to each other.
+
+42
+00:08:54,565 --> 00:08:57,526
+Do you mind?
+Me talking, I mean.
+
+43
+00:08:57,565 --> 00:09:00,004
+No, no, go ahead.
+Talk.
+
+44
+00:09:00,045 --> 00:09:02,524
+I can't promise to think of
+anything to answer though.
+
+45
+00:09:02,563 --> 00:09:05,009
+Don't worry about that.
+
+46
+00:09:05,044 --> 00:09:07,008
+Once I get started,
+nothing can stop me.
+
+47
+00:09:07,044 --> 00:09:10,487
+My uncle says I am
+a veritable well of words.
+
+48
+00:09:10,523 --> 00:09:14,042
+Has this uncle of yours ever warned
+you never to speak to strangers?
+
+49
+00:09:14,082 --> 00:09:17,561
+No. He did say once if
+anyone asked how old I was...
+
+50
+00:09:17,602 --> 00:09:20,560
+To say I was 20 years old
+and light in the head.
+
+51
+00:09:20,600 --> 00:09:23,559
+- They always go together.
+- "Light in the head"?
+
+52
+00:09:23,599 --> 00:09:27,519
+Mmm.
+Loopy. Crazy.
+
+53
+00:09:27,558 --> 00:09:30,799
+Anyway,
+you don't frighten me.
+
+54
+00:09:30,838 --> 00:09:34,037
+- Why should I?
+- No reason really.
+
+55
+00:09:34,072 --> 00:09:37,037
+The uniform, I suppose.
+
+56
+00:09:37,077 --> 00:09:39,516
+Most people are...
+Frightened,
+
+57
+00:09:39,556 --> 00:09:42,075
+- frightened of firemen.
+- This is my stop now.
+
+58
+00:09:42,115 --> 00:09:44,555
+Mine too.
+
+59
+00:09:45,075 --> 00:09:48,034
+- Are you an officer?
+- Oh, no. Not yet.
+
+60
+00:09:48,074 --> 00:09:52,034
+An officer has to...
+I'm going to be promoted soon.
+
+61
+00:09:52,073 --> 00:09:55,072
+Even with my eyes closed, I
+could tell what you do for a job.
+
+62
+00:09:55,592 --> 00:09:58,592
+- Because of the smell of kerosene?
+- Huh.
+
+63
+00:09:58,627 --> 00:10:01,071
+Quite a scent,
+isn't it?
+
+64
+00:10:01,591 --> 00:10:05,591
+My wife doesn't like it very
+much. She says it lingers.
+
+65
+00:10:05,630 --> 00:10:09,589
+I don't mind. I think
+of it as a... Perfume.
+
+66
+00:10:10,069 --> 00:10:13,589
+- Perfume?
+- Yes, a perfume, like any other.
+
+67
+00:10:16,107 --> 00:10:19,348
+I don't think I've seen
+your wife. What's she like?
+
+68
+00:10:19,387 --> 00:10:22,586
+She's rather like you,
+except her hair is long.
+
+69
+00:10:22,626 --> 00:10:25,586
+- Rather like me?
+- Quite like you.
+
+70
+00:10:27,586 --> 00:10:31,585
+Tell me, that number
+you all wear, what's it mean?
+
+71
+00:10:31,625 --> 00:10:34,064
+Oh, Fahrenheit 451.
+
+72
+00:10:34,103 --> 00:10:37,102
+Why 451 rather than
+813 or 121?
+
+73
+00:10:37,623 --> 00:10:40,622
+Fahrenheit 451 is the
+temperature at which...
+
+74
+00:10:40,662 --> 00:10:43,621
+book paper catches fire
+and starts to burn.
+
+75
+00:10:46,101 --> 00:10:49,620
+I'd like to ask you something
+else, only I don't really dare.
+
+76
+00:10:49,660 --> 00:10:52,140
+Go ahead.
+
+77
+00:10:52,180 --> 00:10:54,619
+Is it true...
+
+78
+00:10:55,139 --> 00:10:57,103
+that a long time ago...
+
+79
+00:10:57,138 --> 00:11:02,097
+firemen used to put out fires
+and not burn books?
+
+80
+00:11:02,138 --> 00:11:05,138
+Really, your uncle is right.
+You are light in the head.
+
+81
+00:11:05,177 --> 00:11:07,101
+"Put fires out"?
+Who told you that?
+
+82
+00:11:07,137 --> 00:11:11,136
+- I don't know. Someone. But is it true?
+- What a strange idea.
+
+83
+00:11:11,176 --> 00:11:14,615
+- Houses have always been fireproof.
+- Ours isn't.
+
+84
+00:11:14,654 --> 00:11:18,654
+Well, then, it should be
+condemned one of these days.
+
+85
+00:11:19,134 --> 00:11:21,134
+It has to be destroyed,
+and you will have to move...
+
+86
+00:11:21,168 --> 00:11:23,133
+to a house that is fireproof.
+
+87
+00:11:23,167 --> 00:11:25,613
+Too bad.
+
+88
+00:11:25,652 --> 00:11:28,132
+Tell me,
+why do you burn books?
+
+89
+00:11:28,172 --> 00:11:30,616
+What?
+
+90
+00:11:30,650 --> 00:11:33,131
+Well, it's a job
+like any other.
+
+91
+00:11:33,171 --> 00:11:35,610
+Good work with lots
+of variety.
+
+92
+00:11:35,649 --> 00:11:39,890
+Monday, we burn Miller; Tuesday,
+Tolstoy; Wednesday, Walt Whitman;
+
+93
+00:11:39,929 --> 00:11:44,169
+Friday, Faulkner; and Saturday
+and Sunday, Schopenhauer and Sartre.
+
+94
+00:11:44,208 --> 00:11:46,647
+"We burn them to ashes
+and then burn the ashes."
+
+95
+00:11:47,168 --> 00:11:50,166
+That's our official motto.
+You don't like books then?
+
+96
+00:11:50,646 --> 00:11:54,166
+- Do you like the rain?
+- Yes, I adore it.
+
+97
+00:11:56,165 --> 00:11:58,686
+Books are just
+so much... rubbish.
+
+98
+00:11:59,165 --> 00:12:01,130
+They have no interest.
+
+99
+00:12:01,164 --> 00:12:05,684
+Then why do some people still read
+them although it's so dangerous?
+
+100
+00:12:05,724 --> 00:12:08,163
+Precisely because
+it is forbidden.
+
+101
+00:12:08,202 --> 00:12:10,641
+Why is it forbidden?
+
+102
+00:12:10,682 --> 00:12:13,442
+Because it makes
+people unhappy.
+
+103
+00:12:13,482 --> 00:12:16,200
+Do you really
+believe that?
+
+104
+00:12:16,236 --> 00:12:18,921
+Oh, yes. Books
+disturb people.
+
+105
+00:12:18,960 --> 00:12:21,680
+They make them
+antisocial.
+
+106
+00:12:22,680 --> 00:12:26,199
+Do you think
+I'm antisocial?
+
+107
+00:12:26,239 --> 00:12:28,643
+Why do you ask?
+
+108
+00:12:28,678 --> 00:12:32,158
+Well...
+I'm a teacher.
+
+109
+00:12:32,197 --> 00:12:35,956
+Well, not quite.
+I'm still on probation.
+
+110
+00:12:35,997 --> 00:12:39,596
+This afternoon
+the analyst called me in,
+
+111
+00:12:39,636 --> 00:12:43,394
+And I don't think
+I said the right things.
+
+112
+00:12:43,430 --> 00:12:47,154
+I'm not at all happy
+about my answers.
+
+113
+00:12:47,194 --> 00:12:50,713
+That's probably why I've been so
+rude to you. Have I been annoying you?
+
+114
+00:12:50,752 --> 00:12:52,679
+Oh, no,
+not at all.
+
+115
+00:12:52,713 --> 00:12:56,712
+In fact, I was questioned
+this afternoon as well.
+
+116
+00:12:56,751 --> 00:12:59,191
+I didn't do
+too well either.
+
+117
+00:12:59,232 --> 00:13:03,190
+This is where I live.
+
+118
+00:13:03,231 --> 00:13:06,710
+You see?
+This is my house.
+
+119
+00:13:09,709 --> 00:13:12,209
+- One more question.
+- Another one?
+
+120
+00:13:12,244 --> 00:13:14,708
+- Just a tiny one.
+- What is it?
+
+121
+00:13:14,748 --> 00:13:17,708
+Do you ever read
+the books you burn?
+
+122
+00:13:17,747 --> 00:13:20,707
+Why should I? First,
+I'm not interested.
+
+123
+00:13:20,746 --> 00:13:23,226
+Second, I've better things
+to do. Third, it is forbidden.
+
+124
+00:13:23,266 --> 00:13:25,745
+Of course.
+
+125
+00:13:28,225 --> 00:13:30,984
+- You happy?
+- What?
+
+126
+00:13:31,024 --> 00:13:33,743
+Of course I'm happy.
+
+127
+00:13:59,858 --> 00:14:02,297
+...so you can protect
+yourself on the streets.
+
+128
+00:14:02,337 --> 00:14:05,856
+The art of self-defence,
+and of attack on occasions,
+
+129
+00:14:05,897 --> 00:14:08,855
+may also come in handy
+in the home, cousins.
+
+130
+00:14:09,336 --> 00:14:11,341
+If you watch carefully,
+you will see...
+
+131
+00:14:11,376 --> 00:14:15,374
+how a woman can use a man's
+superior weight to her own advantage.
+
+132
+00:14:15,410 --> 00:14:17,819
+Did you see that?
+
+133
+00:14:17,853 --> 00:14:20,853
+Now let's watch that
+once again normally.
+
+134
+00:14:24,372 --> 00:14:26,852
+And now
+in slow motion.
+
+135
+00:14:27,372 --> 00:14:29,851
+Watch it carefully
+again, cousins.
+
+136
+00:14:29,891 --> 00:14:33,131
+I'm going to be promoted.
+
+137
+00:14:33,166 --> 00:14:36,369
+Are you listening, Linda?
+
+138
+00:14:40,889 --> 00:14:42,888
+Oh, that's marvellous,
+Montag.
+
+139
+00:14:45,888 --> 00:14:48,367
+The captain told me
+while we were out on a call.
+
+140
+00:14:48,402 --> 00:14:50,851
+What did you say?
+
+141
+00:14:50,886 --> 00:14:54,366
+I'm talking
+about my promotion.
+
+142
+00:14:54,405 --> 00:14:57,125
+Does that mean
+an increase, dear?
+
+143
+00:14:57,160 --> 00:14:59,844
+- How much?
+- He didn't mention that.
+
+144
+00:14:59,885 --> 00:15:02,403
+We could move to a larger
+house. Would you like that?
+
+145
+00:15:02,884 --> 00:15:05,364
+I'd rather have
+a second wall-set put in.
+
+146
+00:15:05,403 --> 00:15:08,363
+They say when you have
+your second wall-screen,
+
+147
+00:15:08,402 --> 00:15:11,883
+It's like having
+your family grow around you.
+
+148
+00:15:11,922 --> 00:15:14,401
+Linda, how many of these pills
+have you taken today?
+
+149
+00:15:14,442 --> 00:15:18,361
+What's that?
+
+150
+00:15:18,400 --> 00:15:21,360
+Oh, those. Help yourself.
+I've got another bottle.
+
+151
+00:15:21,399 --> 00:15:26,919
+- How many have you had?
+- Oh, don't carry on like that. Only a few.
+
+152
+00:15:26,959 --> 00:15:29,878
+Anyway,
+tonight's special for me.
+
+153
+00:15:29,918 --> 00:15:32,878
+I've got a part in the family.
+
+154
+00:15:32,917 --> 00:15:34,917
+What?
+
+155
+00:15:36,916 --> 00:15:40,436
+Today's figures for operations
+in the urban area alone...
+
+156
+00:15:40,476 --> 00:15:43,694
+Account for the elimination
+of the total...
+
+157
+00:15:43,730 --> 00:15:46,880
+Of 2,750 pounds
+of conventional editions.
+
+158
+00:15:46,914 --> 00:15:49,434
+Eight hundred and thirty-six
+pounds of first editions...
+
+159
+00:15:49,473 --> 00:15:53,392
+And 17 pounds of manuscripts
+were also destroyed.
+
+160
+00:15:53,433 --> 00:15:57,952
+Twenty-three antisocial elements
+were detained, pending re-education.
+
+161
+00:15:57,991 --> 00:16:00,432
+Did you see that? Cousin
+Claudette's got a bouffant tonight.
+
+162
+00:16:00,471 --> 00:16:02,395
+- Who?
+- Cousin Claudette.
+
+163
+00:16:02,431 --> 00:16:06,430
+- Who is cousin Claudette?
+- The cousin announcer. The one you don't like.
+
+164
+00:16:06,949 --> 00:16:08,914
+I don't like
+any of them.
+
+165
+00:16:08,949 --> 00:16:11,909
+Why don't you get the
+kitchen fixed? You are awful.
+
+166
+00:16:11,949 --> 00:16:16,467
+Oh, hurry, hurry!
+I'll be on in a minute!
+
+167
+00:16:16,508 --> 00:16:18,947
+Quickly!
+Quickly!
+
+168
+00:16:22,466 --> 00:16:26,190
+I don't understand.
+How can you be in a play?
+
+169
+00:16:26,226 --> 00:16:29,944
+They've written a play with
+one part missing. That's me.
+
+170
+00:16:30,464 --> 00:16:32,944
+When the people look at me,
+then I have to speak.
+
+171
+00:16:32,984 --> 00:16:35,983
+They ask me a question,
+and I have to say what I think.
+
+172
+00:16:37,982 --> 00:16:41,982
+- The play, it's beginning.
+- And now, for cousins everywhere,
+
+173
+00:16:42,462 --> 00:16:44,981
+our family theatre.
+
+174
+00:16:45,982 --> 00:16:49,426
+"Come play with us."
+
+175
+00:16:49,460 --> 00:16:51,980
+Naturally, in what
+you are about to see...
+
+176
+00:16:52,500 --> 00:16:56,499
+any similarity with the truth or with
+real life will be purely coincidental.
+
+177
+00:16:56,539 --> 00:16:58,464
+Do bear that in mind.
+
+178
+00:16:58,499 --> 00:17:01,937
+So, will you
+come play with us?
+
+179
+00:17:01,978 --> 00:17:06,457
+You will? Good!
+I thought you would.
+
+180
+00:17:06,497 --> 00:17:09,940
+Come in, cousins.
+Be one of the family.
+
+181
+00:17:09,976 --> 00:17:13,455
+Charles, do you realize
+what a dilemma this is?
+
+182
+00:17:13,495 --> 00:17:16,014
+It's terribly difficult.
+I don't see any way out of it.
+
+183
+00:17:16,055 --> 00:17:18,013
+Come, come, Bernard. Of
+course there's a way out.
+
+184
+00:17:18,049 --> 00:17:20,459
+There are 13 of us
+so far, right?
+
+185
+00:17:20,493 --> 00:17:22,973
+You want to invite
+Edward, which makes 14.
+
+186
+00:17:23,012 --> 00:17:25,492
+But if somebody's ill, then
+we should be back to 13 again.
+
+187
+00:17:26,012 --> 00:17:29,491
+Precisely. Then we must invite
+more people. That's an idea.
+
+188
+00:17:29,531 --> 00:17:32,291
+What about Lottie and
+James? That'll make 16.
+
+189
+00:17:32,331 --> 00:17:35,010
+Then if somebody's ill,
+at least we won't be 13.
+
+190
+00:17:35,530 --> 00:17:37,529
+But then there's
+the problem of the rooms.
+
+191
+00:17:37,564 --> 00:17:40,468
+Lottie has 2 children,
+2 little boys,
+
+192
+00:17:40,469 --> 00:17:41,969
+Freddie and little John.
+
+193
+00:17:42,008 --> 00:17:43,973
+I don't see any problem
+there at all.
+
+194
+00:17:44,008 --> 00:17:47,007
+We can put the two
+children in Helen's room.
+
+195
+00:17:47,528 --> 00:17:50,526
+What do you think, Linda?
+
+196
+00:17:56,046 --> 00:18:00,045
+- Go ahead. They're waiting for you.
+- I think that...
+
+197
+00:18:00,085 --> 00:18:02,009
+You see?
+Linda agrees with me.
+
+198
+00:18:02,045 --> 00:18:05,524
+Lottie's children must go in with Helen's
+children. Linda's absolutely right.
+
+199
+00:18:05,564 --> 00:18:08,262
+Then there's the problem
+of the seating, Charles.
+
+200
+00:18:08,298 --> 00:18:11,029
+I think I've got something
+worked out, though. Look.
+
+201
+00:18:11,064 --> 00:18:13,762
+If we put Yvonne at the head
+and Richard at her right...
+
+202
+00:18:13,801 --> 00:18:16,560
+Oh, no, Bernard. Richard
+isn't even speaking to Yvonne.
+
+203
+00:18:16,601 --> 00:18:18,525
+Oh?
+Because of Leslie.
+
+204
+00:18:18,560 --> 00:18:21,039
+Oh! Madeleine must be at the head.
+
+205
+00:18:21,560 --> 00:18:25,038
+Besides, Madeleine is older than Yvonne.
+She might even be older than Jacqueline.
+
+206
+00:18:25,079 --> 00:18:28,558
+I see no problem there. We put
+Madeleine at the head of the table.
+
+207
+00:18:28,599 --> 00:18:31,317
+It's Madeleine,
+isn't it, Linda?
+
+208
+00:18:31,357 --> 00:18:34,037
+Absolutely.
+
+209
+00:18:34,077 --> 00:18:37,556
+If Linda thinks
+it's all right, it must be.
+
+210
+00:18:38,076 --> 00:18:41,516
+There's still the problem about
+the rooms. What rooms are left?
+
+211
+00:18:41,555 --> 00:18:44,075
+There's the pink room. We could
+always put Lillian in the pink room.
+
+212
+00:18:44,114 --> 00:18:46,039
+We can put Susan in the green room. Yes.
+
+213
+00:18:46,075 --> 00:18:51,073
+Where can we put Monica? Yes,
+what can we do with Monica?
+
+214
+00:18:51,593 --> 00:18:54,552
+Do you have
+the answer, Linda?
+
+215
+00:18:54,593 --> 00:18:58,071
+In the blue room?
+
+216
+00:18:58,591 --> 00:19:00,592
+Linda, you're right.
+
+217
+00:19:00,626 --> 00:19:02,556
+She's right.
+
+218
+00:19:02,591 --> 00:19:07,070
+Linda, you're
+absolutely fantastic.
+
+219
+00:19:10,069 --> 00:19:13,069
+You saw it, didn't you?
+I gave all the right answers.
+
+220
+00:19:13,108 --> 00:19:16,588
+Wasn't it wonderful? I could have
+been an actress. Don't you think so?
+
+221
+00:19:16,627 --> 00:19:20,107
+- Think what?
+- That I could have been an actress.
+
+222
+00:19:20,147 --> 00:19:22,546
+Oh, sure you could have
+been an actress.
+
+223
+00:19:22,587 --> 00:19:25,105
+I wonder whether Joyce
+was watching. I do hope so.
+
+224
+00:19:25,586 --> 00:19:28,105
+I must ring her tomorrow
+and find out what she thought.
+
+225
+00:19:28,584 --> 00:19:32,624
+- How did you get the part?
+- The head of the family rang me up. Me!
+
+226
+00:19:32,659 --> 00:19:35,064
+And said I was to be
+in tonight's play.
+
+227
+00:19:35,103 --> 00:19:40,102
+Linda, they must have phoned every one
+of 200,000 Lindas in the whole country.
+
+228
+00:19:40,143 --> 00:19:42,622
+That's not true.
+
+229
+00:19:44,101 --> 00:19:48,100
+I mean, even if it were true, you didn't
+have to tell me. That was very mean.
+
+230
+00:20:49,847 --> 00:20:52,846
+So you're in for promotion,
+Montag. Good luck.
+
+231
+00:20:52,886 --> 00:20:55,325
+Thank you.
+
+232
+00:20:59,325 --> 00:21:02,844
+Well, well, what's all this
+we hear, Montag? Promotion, eh?
+
+233
+00:21:02,883 --> 00:21:05,322
+It seems so.
+
+234
+00:21:13,362 --> 00:21:16,320
+How do you feel
+about it? Happy?
+
+235
+00:21:16,361 --> 00:21:18,360
+The wife rather likes
+the idea. I suppose.
+
+236
+00:21:18,395 --> 00:21:21,840
+Hurry!
+
+237
+00:21:40,875 --> 00:21:43,355
+Attention!
+
+238
+00:21:48,873 --> 00:21:51,872
+That will do for today.
+Go back to your desks.
+
+239
+00:21:58,871 --> 00:22:04,390
+What's this? I told you two I did not
+want to see you sitting next to each other.
+
+240
+00:22:04,429 --> 00:22:08,389
+Didn't I make it clear enough
+the first time? Yes, you!
+
+241
+00:22:08,429 --> 00:22:10,909
+You know what I mean.
+Come and sit here.
+
+242
+00:22:21,907 --> 00:22:25,385
+Let us review
+yesterday's lesson.
+
+243
+00:22:25,425 --> 00:22:29,905
+We studied how to detect books hidden
+during the actual construction of a house.
+
+244
+00:22:30,424 --> 00:22:32,423
+This is somewhat rare
+because it's very costly;
+
+245
+00:22:32,458 --> 00:22:34,389
+For its floors,
+for its ceilings.
+
+246
+00:22:34,423 --> 00:22:37,383
+We also studied concealment
+inside furniture.
+
+247
+00:22:37,422 --> 00:22:43,421
+Trainee firemen Stoneman and Black are
+to report to captain's office immediately.
+
+248
+00:22:43,462 --> 00:22:45,940
+I repeat, trainee firemen
+Stoneman and Black...
+
+249
+00:22:45,976 --> 00:22:48,420
+Are to report to the
+captain's office immediately.
+
+250
+00:22:51,939 --> 00:22:55,379
+We were discussing
+concealment inside furniture.
+
+251
+00:22:55,418 --> 00:22:59,938
+The most prevalent form being the
+false icebox or the fake television set.
+
+252
+00:22:59,978 --> 00:23:04,457
+What occasionally presents problems
+are books hidden in small quantities...
+
+253
+00:23:04,491 --> 00:23:06,937
+In everyday objects.
+
+254
+00:23:09,935 --> 00:23:13,455
+When one is looking for a book, the
+most common area is to look for it...
+
+255
+00:23:13,495 --> 00:23:16,934
+in a rectangular object, like
+a cigar box or a chocolate box...
+
+256
+00:23:16,973 --> 00:23:18,898
+or any other object
+in similar shape.
+
+257
+00:23:18,933 --> 00:23:22,453
+I demonstrate how even a
+cylindrical object can be used.
+
+258
+00:23:29,971 --> 00:23:33,451
+Montag will report
+to the captain's office.
+
+259
+00:23:33,970 --> 00:23:36,969
+Here, you.
+Hand me a pile of books.
+
+260
+00:23:37,450 --> 00:23:40,929
+While I'm gone, give each
+of the trainees a book.
+
+261
+00:23:40,969 --> 00:23:44,448
+Each of you will hide his book
+somewhere in this classroom.
+
+262
+00:23:44,488 --> 00:23:47,967
+When I return, I will give you
+a demonstration how to search.
+
+263
+00:23:48,008 --> 00:23:51,486
+To learn how to find,
+one must first know how to hide.
+
+264
+00:24:01,964 --> 00:24:04,224
+- What shall I say?
+- We met by accident.
+
+265
+00:24:04,258 --> 00:24:06,483
+- That's no good.
+- What do you want to say?
+
+266
+00:24:06,523 --> 00:24:09,003
+- We planned it?
+- It was your idea.
+
+267
+00:24:09,482 --> 00:24:11,446
+- You're the one who thought of it.
+- Shut up!
+
+268
+00:24:11,481 --> 00:24:14,002
+If we don't tell him the
+same story, we're... Listen...
+
+269
+00:24:14,042 --> 00:24:17,480
+Let's play this by ear.
+
+270
+00:24:23,000 --> 00:24:26,999
+- Montag, this will take about five minutes.
+- Yes, sir.
+
+271
+00:24:27,039 --> 00:24:29,517
+What time is it?
+
+272
+00:24:29,558 --> 00:24:31,997
+Uh... 10:00, sir.
+
+273
+00:24:54,512 --> 00:24:59,031
+Get out! This is
+the last time!
+
+274
+00:25:00,511 --> 00:25:03,030
+Get out!
+
+275
+00:25:16,548 --> 00:25:19,546
+- Like gymnastics, Montag?
+- Yes, sir.
+
+276
+00:25:20,027 --> 00:25:23,026
+- And what about hockey? Do you like hockey?
+- Yes, I do, sir.
+
+277
+00:25:23,065 --> 00:25:26,064
+- And golf?
+- Golf. Very much, sir.
+
+278
+00:25:26,545 --> 00:25:29,064
+- Hmm? And football?
+- Wonderful, sir.
+
+279
+00:25:29,100 --> 00:25:32,024
+Billiards?
+Basketball?
+
+280
+00:25:32,063 --> 00:25:34,503
+Oh, they're all
+very fine sports, sir.
+
+281
+00:25:34,544 --> 00:25:38,542
+Then increase the dosage.
+More sports for everyone, hmm?
+
+282
+00:25:39,062 --> 00:25:44,021
+Strengthen the group spirit.
+Organize the fun. Hmm?
+
+283
+00:25:44,061 --> 00:25:48,060
+Just keep them busy, and you keep
+them happy. That's what matters.
+
+284
+00:25:48,101 --> 00:25:51,059
+Hmm?
+Am I right?
+
+285
+00:25:51,579 --> 00:25:54,059
+Absolutely, sir.
+
+286
+00:25:58,578 --> 00:26:03,577
+Well, shall we talk a little
+about this promotion of yours?
+
+287
+00:26:03,616 --> 00:26:07,576
+You have mentioned
+the possibility to your wife?
+
+288
+00:26:07,616 --> 00:26:11,055
+- Yes, sir.
+- And her reaction?
+
+289
+00:26:11,095 --> 00:26:15,574
+She thought we might be able
+to have a second wall-screen.
+
+290
+00:26:15,614 --> 00:26:20,538
+Oh, you only have
+the one wall converted. I see.
+
+291
+00:26:20,573 --> 00:26:24,092
+These matters of promotion are much more
+important to a married man, aren't they?
+
+292
+00:26:24,132 --> 00:26:26,611
+I guess so, sir.
+
+293
+00:26:30,610 --> 00:26:34,091
+Montag... You have
+no children, I believe.
+
+294
+00:26:34,130 --> 00:26:36,569
+No, sir.
+We have no children.
+
+295
+00:26:36,609 --> 00:26:38,574
+Well, then, a commission
+seems in order.
+
+296
+00:26:38,608 --> 00:26:42,089
+I can't see any reason offhand
+why it shouldn't go through.
+
+297
+00:26:42,128 --> 00:26:44,053
+You understand, of course,
+
+298
+00:26:44,088 --> 00:26:48,607
+With the new amendment to the law, we
+must expect to be worked really very hard.
+
+299
+00:26:48,647 --> 00:26:50,571
+Very hard, indeed,
+
+300
+00:26:50,606 --> 00:26:53,606
+Until we can arrange for
+new volunteers to be drafted.
+
+301
+00:26:54,126 --> 00:26:56,605
+Yes, sir, I heard the men
+talking about it.
+
+302
+00:26:56,645 --> 00:27:00,084
+How long have you been with us?
+
+303
+00:27:00,124 --> 00:27:04,084
+For six years, sir.
+Yes, for six years.
+
+304
+00:27:04,123 --> 00:27:07,883
+No, no, no, for five
+years, sir. For five years.
+
+305
+00:27:07,923 --> 00:27:11,642
+Montag has one quality
+I appreciate greatly.
+
+306
+00:27:11,681 --> 00:27:14,121
+He says very little.
+
+307
+00:27:15,641 --> 00:27:18,120
+Have you seen
+my personal medallion?
+
+308
+00:27:18,160 --> 00:27:20,600
+It's a remarkable likeness.
+
+309
+00:27:20,640 --> 00:27:24,119
+You must remind me to let you
+have one sometime.
+
+310
+00:27:24,639 --> 00:27:26,638
+Now, let's get back
+to this promotion of yours.
+
+311
+00:27:26,673 --> 00:27:29,158
+I've been looking
+through your file.
+
+312
+00:27:29,638 --> 00:27:32,637
+There are only six back views.
+We need 12 of them, you know.
+
+313
+00:27:32,677 --> 00:27:35,122
+Two sets of six.
+
+314
+00:27:35,156 --> 00:27:37,636
+Remember that, Montag.
+
+315
+00:28:00,150 --> 00:28:02,670
+Linda?
+
+316
+00:28:05,669 --> 00:28:08,190
+Linda!
+
+317
+00:28:43,701 --> 00:28:45,666
+Hospital listening.
+
+318
+00:28:45,700 --> 00:28:48,700
+- Yes, it's about my wife. She...
+- Name and address.
+
+319
+00:28:48,741 --> 00:28:52,219
+Uh... Montag.
+Block 813.
+
+320
+00:28:52,259 --> 00:28:55,698
+- 813?
+- Uh, just a moment.
+
+321
+00:29:04,696 --> 00:29:06,700
+Hello? I just came home from work, yes.
+
+322
+00:29:06,736 --> 00:29:09,736
+- And I found her on the floor unconscious.
+- Does she take pills?
+
+323
+00:29:09,770 --> 00:29:11,972
+- Of course! Yesterday, she...
+- Just a moment.
+
+324
+00:29:12,007 --> 00:29:14,175
+- I'll connect you with poisoning section.
+- Yes.
+
+325
+00:29:14,215 --> 00:29:17,214
+- Poisoning listening.
+- It's about my wife. She...
+
+326
+00:29:17,253 --> 00:29:20,692
+- Name and address.
+- Uh, Montag. Block 813.
+
+327
+00:29:20,734 --> 00:29:24,732
+- What kind of pills?
+- Oh... Uh, just a moment.
+
+328
+00:29:29,251 --> 00:29:31,690
+- Hello?
+- Yes?
+
+329
+00:29:31,731 --> 00:29:35,250
+- They are red.
+- Oh, and red number two.
+
+330
+00:29:35,290 --> 00:29:38,694
+Oh, it's a stimulant.
+It's harmless.
+
+331
+00:29:38,729 --> 00:29:41,248
+She's probably taken the wrong
+kind of sedative on top of that.
+
+332
+00:29:41,289 --> 00:29:43,728
+Oh, just a moment.
+
+333
+00:29:50,246 --> 00:29:52,726
+- Hello?
+- Yes, listening.
+
+334
+00:29:52,765 --> 00:29:55,206
+Oh, yes, they are
+golden number eight.
+
+335
+00:29:55,245 --> 00:29:58,244
+Right. Stay close to her.
+The ambulance is on its way.
+
+336
+00:29:58,285 --> 00:30:02,764
+- Four minutes.
+- What should I do in the meantime?
+
+337
+00:30:02,803 --> 00:30:05,242
+Nothing.
+
+338
+00:30:11,282 --> 00:30:13,686
+Where is the doctor?
+
+339
+00:30:13,721 --> 00:30:16,201
+What doctor? The doctor
+that took care of my wife.
+
+340
+00:30:16,240 --> 00:30:19,999
+No doctors on these jobs. We do
+all the blood jobs, me and him.
+
+341
+00:30:20,040 --> 00:30:23,759
+- No, it's here, please.
+- That's right, us. Who did you expect?
+
+342
+00:30:23,798 --> 00:30:26,198
+Cases like that... We
+handle 50 a day like her.
+
+343
+00:30:26,238 --> 00:30:29,718
+That's right. She won't be the last
+tonight, not by a long shot. No, sir.
+
+344
+00:30:29,758 --> 00:30:34,757
+Don't you worry, sir. We'll give her a
+pump out and fill her up with new blood.
+
+345
+00:30:34,796 --> 00:30:37,756
+In 20 minutes, she'll be as
+good as new. Just you relax.
+
+346
+00:30:37,795 --> 00:30:39,719
+This isn't pretty
+to look at.
+
+347
+00:30:39,755 --> 00:30:42,715
+You need a strong stomach.
+You better wait out there.
+
+348
+00:30:42,755 --> 00:30:47,754
+You just leave it all to us. We'll
+call you as soon as she's done.
+
+349
+00:30:47,794 --> 00:30:50,753
+This regulator is not
+as regular as it was.
+
+350
+00:30:52,752 --> 00:30:55,752
+Come here
+with that thing.
+
+351
+00:30:56,752 --> 00:30:59,271
+First,
+get the stockings off.
+
+352
+00:31:01,790 --> 00:31:06,269
+Never mind that.
+Put the dress on that chair.
+
+353
+00:31:15,787 --> 00:31:18,267
+All right, sir,
+you can come in now.
+
+354
+00:31:24,305 --> 00:31:27,265
+She's fresh as a daisy,
+good as gold.
+
+355
+00:31:27,304 --> 00:31:29,784
+- She's still unconscious.
+- I wouldn't say that, sir.
+
+356
+00:31:29,825 --> 00:31:32,503
+You've got it wrong.
+She's asleep.
+
+357
+00:31:32,538 --> 00:31:35,183
+Never mind about her.
+You get to bed.
+
+358
+00:31:35,223 --> 00:31:37,522
+By tomorrow,
+it'll all be forgotten.
+
+359
+00:31:37,558 --> 00:31:39,786
+She'll be completely well
+by tomorrow?
+
+360
+00:31:39,822 --> 00:31:42,822
+Better than that. Take my word for
+it, she'll be on top of the world.
+
+361
+00:31:42,856 --> 00:31:45,821
+She'll have an appetite
+for all sorts of things.
+
+362
+00:31:46,300 --> 00:31:49,300
+That's right. She'll be
+starving. You'll find out.
+
+363
+00:32:17,333 --> 00:32:19,813
+My, I'm hungry.
+
+364
+00:32:19,853 --> 00:32:22,298
+How do you feel?
+
+365
+00:32:22,332 --> 00:32:24,297
+Hungry.
+Really hungry.
+
+366
+00:32:24,332 --> 00:32:27,330
+- I'm absolutely starving. I could eat a horse.
+- Do you remember last night?
+
+367
+00:32:27,371 --> 00:32:29,811
+- Yes, what a sleep. I slept like a log.
+- Listen...
+
+368
+00:32:29,851 --> 00:32:32,330
+- When I came home last night, you were...
+- I'm absolutely famished.
+
+369
+00:32:32,850 --> 00:32:35,330
+Let me talk, Linda,
+will you?
+
+370
+00:32:35,365 --> 00:32:37,809
+Oh...
+Of course, darling.
+
+371
+00:32:37,849 --> 00:32:41,369
+Talk all you like
+if it makes you happy.
+
+372
+00:32:41,403 --> 00:32:43,848
+Go on then.
+What about last night?
+
+373
+00:32:43,887 --> 00:32:46,607
+Nothing.
+I can't remember.
+
+374
+00:32:46,646 --> 00:32:49,367
+It doesn't matter anyway.
+
+375
+00:32:50,846 --> 00:32:52,810
+Look.
+
+376
+00:32:52,845 --> 00:32:56,365
+I've bought you a present
+to celebrate your...
+
+377
+00:32:56,405 --> 00:32:59,125
+Oh, I forget what.
+Never mind.
+
+378
+00:32:59,159 --> 00:33:01,844
+Do you like it?
+Isn't it lovely?
+
+379
+00:33:01,884 --> 00:33:04,363
+Do you like it? Yes, I do. Very much.
+
+380
+00:33:04,403 --> 00:33:06,882
+Isn't it smart?
+It's the very latest.
+
+381
+00:33:06,922 --> 00:33:09,322
+Everyone's
+using them now.
+
+382
+00:33:09,363 --> 00:33:11,881
+Can I throw
+your old one away?
+
+383
+00:33:24,399 --> 00:33:26,877
+Linda.
+
+384
+00:33:27,877 --> 00:33:30,397
+Linda.
+
+385
+00:33:38,916 --> 00:33:41,394
+I've something
+to tell you.
+
+386
+00:33:41,915 --> 00:33:44,394
+Are you listening,
+Linda?
+
+387
+00:33:47,913 --> 00:33:50,393
+What are you doing?
+
+388
+00:33:54,391 --> 00:33:56,912
+Linda?
+
+389
+00:34:00,430 --> 00:34:02,911
+Hey!
+
+390
+00:34:55,699 --> 00:34:58,698
+Do you ever read
+the books you burn?
+
+391
+00:34:58,737 --> 00:35:00,661
+Hey, you, come here.
+Come here.
+
+392
+00:35:00,697 --> 00:35:05,217
+Here. What's all this?
+What is it? Eh?
+
+393
+00:35:05,696 --> 00:35:07,660
+Hey!
+
+394
+00:35:07,695 --> 00:35:10,735
+Come on. Come on. Come on.
+
+395
+00:35:12,734 --> 00:35:15,174
+All right.
+Hold him.
+
+396
+00:35:15,215 --> 00:35:17,694
+But some boys still boycott
+the barbershops.
+
+397
+00:35:17,733 --> 00:35:22,213
+Here you see a mop-up squad at work
+on one of these messy know-it-alls.
+
+398
+00:35:22,732 --> 00:35:26,212
+It all goes to show
+law enforcement can be fun.
+
+399
+00:36:18,280 --> 00:36:20,244
+How come the door
+is not working?
+
+400
+00:36:20,279 --> 00:36:22,760
+You're just in time.
+Dinner is nearly ready.
+
+401
+00:36:45,794 --> 00:36:48,794
+Montag, what are you doing? I'm coming.
+
+402
+00:38:09,856 --> 00:38:14,854
+"The personal history
+of David Copperfield...
+
+403
+00:38:14,894 --> 00:38:18,373
+"by Charles Dickens...
+
+404
+00:38:18,853 --> 00:38:23,817
+"with 40 illustrations by Phiz.
+
+405
+00:38:23,853 --> 00:38:29,891
+"London, Chapman and Hall,
+Limited, and Humphrey Milford.
+
+406
+00:38:29,925 --> 00:38:33,889
+"New York,
+Oxford University Press,
+
+407
+00:38:33,929 --> 00:38:38,129
+"the American branch.
+
+408
+00:38:38,168 --> 00:38:42,367
+"35 west 32nd street.
+
+409
+00:38:46,887 --> 00:38:49,887
+"David Copperfield.
+
+410
+00:38:49,926 --> 00:38:52,406
+"Chapter one.
+
+411
+00:38:52,446 --> 00:38:54,845
+"I am born.
+
+412
+00:38:54,885 --> 00:39:00,644
+"whether I shall turn out
+to be the hero of my own life,
+
+413
+00:39:00,683 --> 00:39:06,403
+"or whether that station
+will be held by anybody else,
+
+414
+00:39:06,442 --> 00:39:09,362
+"these pages must show.
+
+415
+00:39:09,403 --> 00:39:15,400
+"To begin my life
+with the beginning of my life,
+
+416
+00:39:15,440 --> 00:39:17,920
+"I record that I was born...
+
+417
+00:39:21,918 --> 00:39:26,363
+"on a Friday,
+at twelve o'clock at night.
+
+418
+00:39:26,398 --> 00:39:30,917
+"It was remarked that the clock
+began to strike,
+
+419
+00:39:30,958 --> 00:39:35,915
+and I began to cry,
+simultaneously."
+
+420
+00:39:35,956 --> 00:39:38,435
+Simultaneously.
+
+421
+00:40:05,950 --> 00:40:08,428
+Just a moment.
+
+422
+00:40:09,949 --> 00:40:12,467
+Go on.
+
+423
+00:40:15,466 --> 00:40:17,947
+Come on.
+
+424
+00:40:31,983 --> 00:40:34,462
+Aha.
+
+425
+00:40:41,981 --> 00:40:45,980
+Ah-ah.
+
+426
+00:42:39,155 --> 00:42:43,154
+- Oh! Everything all right?
+- Yes, everything's all right.
+
+427
+00:42:43,194 --> 00:42:47,153
+That's what they always say,
+so it must be... All right.
+
+428
+00:42:47,193 --> 00:42:49,672
+It certainly doesn't look
+that way. What's wrong?
+
+429
+00:42:49,707 --> 00:42:51,638
+Oh, everything.
+
+430
+00:42:51,672 --> 00:42:54,111
+It would take
+too long to...
+
+431
+00:42:54,152 --> 00:42:57,911
+Sometimes I can't stand it
+anymore. I'd just like to...
+
+432
+00:42:57,951 --> 00:43:01,630
+All right, let's go
+somewhere quiet then.
+
+433
+00:43:01,669 --> 00:43:05,189
+- Won't you be late?
+- No, I have plenty of time. Let's go over here.
+
+434
+00:43:29,704 --> 00:43:32,183
+I saw you the other day, when
+we were going out on a call.
+
+435
+00:43:32,223 --> 00:43:34,662
+I was
+on the fire engine.
+
+436
+00:43:34,703 --> 00:43:38,702
+You know, it's funny.
+It reminded me of something.
+
+437
+00:43:38,742 --> 00:43:41,701
+A girl who used to wait...
+
+438
+00:43:41,741 --> 00:43:43,961
+For a soldier...
+
+439
+00:43:43,996 --> 00:43:46,180
+By a barrack gate.
+
+440
+00:43:46,220 --> 00:43:50,700
+- What's happened?
+- You remember the analyst, how worried I was?
+
+441
+00:43:50,739 --> 00:43:56,217
+I was right to be worried.
+I've been dismissed.
+
+442
+00:43:56,258 --> 00:43:58,698
+Why? What reason
+did they give?
+
+443
+00:43:59,217 --> 00:44:02,696
+None at all.
+Just an official call.
+
+444
+00:44:02,736 --> 00:44:05,661
+Services no longer required.
+
+445
+00:44:05,696 --> 00:44:08,180
+I'm never to go
+to the school anymore.
+
+446
+00:44:08,215 --> 00:44:11,735
+They must give you a reason. Make them
+tell you why. Go to the school and ask.
+
+447
+00:44:11,774 --> 00:44:13,698
+I can't do that.
+
+448
+00:44:13,734 --> 00:44:17,213
+Anyway, who knows what they may
+have said about me to the children.
+
+449
+00:44:17,733 --> 00:44:23,211
+Strange. I wonder what you
+said that made the analyst...
+
+450
+00:44:23,732 --> 00:44:26,691
+Don't you have any idea?
+Something you said or did?
+
+451
+00:44:26,731 --> 00:44:31,251
+I never did get on well with
+the staff. They disapprove of me.
+
+452
+00:44:31,290 --> 00:44:34,689
+I don't always stick
+to the timetable and...
+
+453
+00:44:34,729 --> 00:44:37,249
+We have fun in my classes,
+and they don't like that.
+
+454
+00:44:37,289 --> 00:44:41,692
+There was another teacher,
+the one I replaced.
+
+455
+00:44:41,727 --> 00:44:46,206
+The same thing happened to her.
+They didn't like her either.
+
+456
+00:44:46,247 --> 00:44:50,766
+- Now she's in some awful kind of trouble.
+- Then it wasn't the analyst.
+
+457
+00:44:51,246 --> 00:44:55,245
+It was the staff that wanted to get
+rid of you because you are different.
+
+458
+00:44:56,763 --> 00:44:59,724
+Look at that fellow
+over there.
+
+459
+00:44:59,763 --> 00:45:03,243
+What's he doing? That's
+the information box.
+
+460
+00:45:03,763 --> 00:45:07,722
+- He can't make up his mind.
+- What's he want to find out?
+
+461
+00:45:07,761 --> 00:45:10,281
+He doesn't want to find out anything.
+He knows someone who has books.
+
+462
+00:45:10,761 --> 00:45:13,281
+So he got hold of that
+person's picture and number,
+
+463
+00:45:13,760 --> 00:45:15,725
+And is going to drop it
+into that box.
+
+464
+00:45:15,759 --> 00:45:19,279
+- But he's an informer!
+- No, he's an informant. Look at him.
+
+465
+00:45:19,759 --> 00:45:22,278
+Like someone circling
+around a woman.
+
+466
+00:45:26,798 --> 00:45:29,797
+He's putting something in
+his mouth. It's a stimulant...
+
+467
+00:45:30,276 --> 00:45:32,761
+To work up his nerve.
+
+468
+00:45:32,797 --> 00:45:34,796
+He wants to make sure
+no one can see him.
+
+469
+00:45:34,830 --> 00:45:37,236
+Look at him.
+
+470
+00:45:37,276 --> 00:45:39,240
+He's walking away.
+
+471
+00:45:39,275 --> 00:45:41,914
+You see? He couldn't
+go through with it.
+
+472
+00:45:41,949 --> 00:45:44,554
+Don't worry, he'll be back.
+Here he comes.
+
+473
+00:45:44,594 --> 00:45:47,793
+Good lord,
+make up your mind.
+
+474
+00:45:48,312 --> 00:45:51,552
+- There. What a relief.
+- Now he's got rid of his noisy neighbour...
+
+475
+00:45:51,593 --> 00:45:54,792
+or his brother-in-law who has got
+a better job or even his mother.
+
+476
+00:45:55,311 --> 00:45:57,751
+Why not?
+It's time to work.
+
+477
+00:45:57,791 --> 00:46:01,309
+Please, go back to the
+school and try to find out.
+
+478
+00:46:01,350 --> 00:46:03,754
+No, I can't do that.
+
+479
+00:46:03,789 --> 00:46:06,269
+You must find an excuse
+to go back there.
+
+480
+00:46:06,309 --> 00:46:10,307
+I suppose I ought to go
+and clear out my locker.
+
+481
+00:46:10,828 --> 00:46:14,307
+That's all right. Uh, I
+have to hurry. Good luck.
+
+482
+00:46:14,347 --> 00:46:17,587
+I'm not going.
+You must come with me.
+
+483
+00:46:17,627 --> 00:46:20,826
+But I can't.
+I have to go to work.
+
+484
+00:46:20,865 --> 00:46:23,104
+I'll take care of that.
+
+485
+00:46:23,140 --> 00:46:25,345
+Come on.
+Leave it to me.
+
+486
+00:46:33,823 --> 00:46:36,342
+The Rodier firehouse.
+
+487
+00:46:40,342 --> 00:46:42,820
+Extension one, miss.
+
+488
+00:46:52,858 --> 00:46:54,823
+Rodier firehouse listening.
+
+489
+00:46:54,857 --> 00:46:58,338
+- Can I speak to...
+- Who's calling?
+
+490
+00:47:00,337 --> 00:47:03,855
+- I'm speaking for Montag.
+- Yes?
+
+491
+00:47:04,337 --> 00:47:08,854
+- Can I speak to the captain?
+- One moment.
+
+492
+00:47:11,854 --> 00:47:15,813
+- Captain listening.
+- This is Linda Montag.
+
+493
+00:47:15,853 --> 00:47:18,338
+- Montag's wife?
+- Yes.
+
+494
+00:47:18,373 --> 00:47:20,372
+- What can I do for you?
+- My husband asked me to tell you...
+
+495
+00:47:20,408 --> 00:47:23,332
+He's been taken ill
+and can't leave his bed.
+
+496
+00:47:23,371 --> 00:47:26,891
+- Nothing serious, I hope.
+- No, he should be up by this evening.
+
+497
+00:47:27,371 --> 00:47:29,890
+- Very well, madam. Thank you for informing me.
+- Thank you.
+
+498
+00:47:35,369 --> 00:47:38,889
+Montag's wife. He's not too
+well. He's staying in bed.
+
+499
+00:47:38,928 --> 00:47:40,908
+Montag?
+
+500
+00:47:40,942 --> 00:47:42,852
+Mmm.
+
+501
+00:47:42,887 --> 00:47:46,887
+Is he?
+I see.
+
+502
+00:47:47,406 --> 00:47:50,405
+Well, Fabian,
+that'll do for now.
+
+503
+00:47:50,886 --> 00:47:53,405
+Until the meeting.
+
+504
+00:48:00,884 --> 00:48:03,402
+Okay.
+
+505
+00:48:08,442 --> 00:48:12,401
+Nine thirteens are
+a hundred and seventeen.
+
+506
+00:48:12,921 --> 00:48:17,399
+Nine fourteens are
+a hundred and twenty-six.
+
+507
+00:48:17,920 --> 00:48:22,398
+Nine fifteens are
+a hundred and thirty-five.
+
+508
+00:48:22,439 --> 00:48:26,918
+Nine sixteens are
+a hundred and forty-four.
+
+509
+00:48:27,438 --> 00:48:31,877
+Nine seventeens are
+a hundred and fifty-three.
+
+510
+00:48:31,917 --> 00:48:35,915
+That's Robert. Nine eighteens
+are a hundred and sixty-two.
+
+511
+00:48:36,435 --> 00:48:40,914
+Nine nineteens are
+a hundred and seventy-one.
+
+512
+00:48:45,953 --> 00:48:48,433
+Robert.
+
+513
+00:48:51,952 --> 00:48:55,391
+Nine thirteens are
+a hundred and seventeen.
+
+514
+00:48:55,431 --> 00:48:58,431
+- It may be my uniform.
+- Yes, yes, that's what frightened him!
+
+515
+00:48:58,471 --> 00:49:01,230
+- It must have been your uniform.
+- Go ahead. I'll wait here.
+
+516
+00:49:01,264 --> 00:49:03,909
+All right.
+
+517
+00:49:03,948 --> 00:49:07,908
+Nine sixteens are
+a hundred and forty-four.
+
+518
+00:49:07,948 --> 00:49:12,428
+Nine seventeens are
+a hundred and fifty-three.
+
+519
+00:49:12,468 --> 00:49:15,946
+Nine eighteens are
+a hundred and sixty-three.
+
+520
+00:49:53,978 --> 00:49:57,457
+One twelve is twelve.
+Two twelves is twenty-four.
+
+521
+00:49:57,496 --> 00:50:02,496
+Three twelves is thirty-six.
+Four twelves is forty-eight.
+
+522
+00:50:02,536 --> 00:50:04,941
+Five twelves is sixty.
+
+523
+00:50:04,976 --> 00:50:10,014
+Six twelves is seventy-two.
+Seven twelves is eighty-four.
+
+524
+00:50:10,050 --> 00:50:12,454
+Eight twelves
+is ninety-six.
+
+525
+00:50:12,494 --> 00:50:15,493
+Nine twelves
+is a hundred and eight.
+
+526
+00:50:15,533 --> 00:50:18,453
+Ten twelves
+is a hundred and twenty.
+
+527
+00:50:18,493 --> 00:50:22,491
+Eleven twelves
+is a hundred and thirty-two.
+
+528
+00:50:22,532 --> 00:50:25,012
+Twelve twelves...
+
+529
+00:50:29,010 --> 00:50:31,009
+I'm going
+to be promoted.
+
+530
+00:50:31,045 --> 00:50:32,974
+They'll listen
+to me then.
+
+531
+00:50:33,010 --> 00:50:37,008
+I'll go and see your
+principal myself. Come.
+
+532
+00:50:39,529 --> 00:50:42,487
+- Why?
+- What?
+
+533
+00:50:42,527 --> 00:50:45,527
+How did it come about?
+
+534
+00:50:47,527 --> 00:50:50,485
+What made it begin?
+
+535
+00:50:50,525 --> 00:50:53,525
+What made you want to do...
+
+536
+00:50:56,524 --> 00:51:02,042
+How could someone like you
+be doing this kind of work?
+
+537
+00:51:02,523 --> 00:51:06,042
+I know everyone says that.
+But you!
+
+538
+00:51:06,083 --> 00:51:08,522
+You're not like them.
+
+539
+00:51:08,561 --> 00:51:12,041
+When I say something to you,
+you look at me.
+
+540
+00:51:12,561 --> 00:51:16,039
+Why did you
+choose this job?
+
+541
+00:51:16,559 --> 00:51:19,999
+For you it doesn't seem
+to make any sense.
+
+542
+00:51:20,039 --> 00:51:24,037
+Do you remember what
+you asked me the other day?
+
+543
+00:51:24,073 --> 00:51:28,557
+If I ever read the books
+I burn? Remember?
+
+544
+00:51:28,597 --> 00:51:31,356
+Last night I read one.
+
+545
+00:52:04,389 --> 00:52:08,389
+"Because I'd be ashamed
+of myself."
+
+546
+00:52:14,906 --> 00:52:19,386
+Ashamed of myself.
+
+547
+00:52:21,386 --> 00:52:26,385
+"It was a little
+after half past 11:00."
+
+548
+00:52:44,899 --> 00:52:48,939
+- What are you doing, Linda?
+- I found these things in the house.
+
+549
+00:52:48,974 --> 00:52:51,899
+I don't want these things.
+They frighten me.
+
+550
+00:52:51,939 --> 00:52:55,938
+You spend your whole life in
+front of that "family" on the wall.
+
+551
+00:52:55,977 --> 00:52:58,417
+These books
+are my family.
+
+552
+00:53:02,936 --> 00:53:06,416
+When did we first meet?
+And where?
+
+553
+00:53:06,455 --> 00:53:09,454
+What? When did we meet
+for the first time?
+
+554
+00:53:09,490 --> 00:53:11,971
+I don't know.
+
+555
+00:53:12,007 --> 00:53:14,453
+Let me think.
+
+556
+00:53:16,453 --> 00:53:18,417
+No, I really
+can't remember.
+
+557
+00:53:18,452 --> 00:53:22,451
+Oh, that's rather sad.
+Don't you think? I do.
+
+558
+00:53:22,492 --> 00:53:25,932
+I think it's very sad.
+
+559
+00:53:25,971 --> 00:53:28,931
+Behind each of these
+books, there's a man.
+
+560
+00:53:28,970 --> 00:53:31,970
+That's what interests me. So leave
+them alone and go back to bed.
+
+561
+00:53:34,969 --> 00:53:37,968
+I can't sleep. You have
+your pills, haven't you?
+
+562
+00:53:40,968 --> 00:53:43,412
+"Rhinoceros:
+
+563
+00:53:43,446 --> 00:53:47,446
+"any of certain large, powerful,
+
+564
+00:53:47,487 --> 00:53:53,485
+"thick-skinned
+perissodactyl mammals...
+
+565
+00:53:53,525 --> 00:53:56,004
+"of the family...
+
+566
+00:53:56,044 --> 00:53:58,484
+Rhinocerotidae."
+
+567
+00:54:11,000 --> 00:54:13,440
+- Well, look who's here.
+- What about it?
+
+568
+00:54:13,481 --> 00:54:15,960
+- I thought you were on sick leave.
+- Sick leave?
+
+569
+00:54:15,999 --> 00:54:19,480
+- Who gave you that idea?
+- I don't remember. I must have got it wrong.
+
+570
+00:55:05,709 --> 00:55:08,228
+Hurry up.
+
+571
+00:55:14,747 --> 00:55:17,746
+Montag, you've
+forgotten your helmet.
+
+572
+00:55:32,743 --> 00:55:36,262
+What's this, Montag? Something
+wrong between you and the pole?
+
+573
+00:55:46,779 --> 00:55:48,744
+Oh, mummy, look!
+
+574
+00:55:48,779 --> 00:55:52,778
+Firemen. Mummy, there's
+going to be a fire.
+
+575
+00:57:04,802 --> 00:57:08,281
+"Play the man,
+master Ridley.
+
+576
+00:57:08,321 --> 00:57:12,320
+"We shall this day light such
+a candle, by god's grace...
+
+577
+00:57:12,360 --> 00:57:15,759
+As I trust shall
+never be put out."
+
+578
+00:57:15,800 --> 00:57:18,763
+The police haven't done their
+job very well. Who is this woman?
+
+579
+00:57:18,799 --> 00:57:22,318
+What is she doing here? Well, she's
+certainly worth looking at anyway.
+
+580
+00:57:22,358 --> 00:57:25,338
+Police arrested the family this
+morning, sir. She must have been out.
+
+581
+00:57:25,372 --> 00:57:28,317
+Where are the books? If you didn't
+know that, you wouldn't be here.
+
+582
+00:57:28,357 --> 00:57:31,836
+Upstairs. Montag,
+you stay here.
+
+583
+00:57:37,314 --> 00:57:42,313
+Hey! You two, in there!
+
+584
+00:57:42,349 --> 00:57:46,354
+In there.
+Go on.
+
+585
+00:57:51,352 --> 00:57:54,352
+Down there!
+Throw them all down!
+
+586
+00:57:56,351 --> 00:57:59,350
+Break it open! That's it.
+
+587
+00:58:04,868 --> 00:58:06,834
+This way! Come on!
+
+588
+00:58:06,868 --> 00:58:09,348
+Down there!
+Throw them all down!
+
+589
+00:58:10,867 --> 00:58:13,867
+All the books! All of them!
+This way! Come on!
+
+590
+00:58:35,382 --> 00:58:39,861
+"Once upon a time, there was a
+poor woodcutter whose name was... "
+
+591
+00:58:39,902 --> 00:58:43,660
+They can't have my books.
+They'll never take them away.
+
+592
+00:58:43,700 --> 00:58:47,379
+Montag, I think you
+should see this. Yes, sir.
+
+593
+00:58:48,379 --> 00:58:51,338
+Come on! Quickly!
+
+594
+00:58:51,378 --> 00:58:53,898
+This is a real eyeful.
+
+595
+00:58:55,898 --> 00:58:59,897
+Ah, Montag.
+I knew it. I knew it.
+
+596
+00:59:00,377 --> 00:59:03,896
+Of course, all this...
+The existence of a secret...
+
+597
+00:59:03,935 --> 00:59:06,855
+Library was known
+in high places,
+
+598
+00:59:06,896 --> 00:59:09,374
+But there was no way
+of getting at it.
+
+599
+00:59:09,414 --> 00:59:12,893
+Only once before have I seen
+so many books in one place.
+
+600
+00:59:12,933 --> 00:59:16,852
+I was just an ordinary
+fireman at the time.
+
+601
+00:59:16,893 --> 00:59:20,892
+I wasn't even qualified
+to use the flamethrower.
+
+602
+00:59:22,411 --> 00:59:24,930
+It's all ours, Montag.
+
+603
+00:59:27,930 --> 00:59:29,894
+Listen to me, Montag.
+
+604
+00:59:29,930 --> 00:59:32,369
+Once to each fireman,
+at least once in his career,
+
+605
+00:59:32,408 --> 00:59:34,929
+He just itches to know what
+these books are all about.
+
+606
+00:59:34,968 --> 00:59:38,373
+He just aches to know.
+Isn't that so?
+
+607
+00:59:38,407 --> 00:59:42,447
+Take my word for it, Montag,
+there's nothing there.
+
+608
+00:59:42,482 --> 00:59:44,926
+The books have nothing
+to say!
+
+609
+00:59:48,446 --> 00:59:50,410
+Look, these are all novels.
+
+610
+00:59:50,445 --> 00:59:54,445
+All about people
+that never existed.
+
+611
+00:59:54,924 --> 00:59:58,443
+The people that read them, it makes
+them unhappy with their own lives,
+
+612
+00:59:58,923 --> 01:00:02,443
+Makes them want to live in other
+ways that can never really be.
+
+613
+01:00:06,441 --> 01:00:08,406
+What's happening?
+
+614
+01:00:08,442 --> 01:00:10,960
+This house is condemned. They said to
+burn the books here with everything else.
+
+615
+01:00:11,001 --> 01:00:14,960
+Burning the house is one thing.
+Burning the books is another, isn't it?
+
+616
+01:00:15,000 --> 01:00:17,919
+It's never any good
+burning everything together.
+
+617
+01:00:17,958 --> 01:00:22,958
+Come on, Montag. All this
+philosophy, let's get rid of it.
+
+618
+01:00:22,998 --> 01:00:25,441
+It's even worse
+than the novels.
+
+619
+01:00:25,477 --> 01:00:28,477
+Thinkers, philosophers, all of
+them saying exactly the same thing:
+
+620
+01:00:28,516 --> 01:00:32,475
+"Only I am right.
+The others are all idiots."
+
+621
+01:00:33,955 --> 01:00:38,474
+One century, they tell you
+man's destiny is predetermined.
+
+622
+01:00:38,514 --> 01:00:42,434
+The next, they say that
+he has freedom of choice.
+
+623
+01:00:42,474 --> 01:00:44,952
+It's just a matter of fashion,
+that's all. Philosophy.
+
+624
+01:00:44,993 --> 01:00:50,232
+Just like short dresses this
+year, long dresses next year.
+
+625
+01:00:50,272 --> 01:00:55,471
+Look. All stories of the
+dead. Biography that's called.
+
+626
+01:00:55,510 --> 01:00:57,990
+And autobiography.
+
+627
+01:00:59,990 --> 01:01:02,509
+My life. My diary.
+My memoirs.
+
+628
+01:01:02,544 --> 01:01:04,948
+My intimate memoirs.
+
+629
+01:01:04,989 --> 01:01:09,947
+Of course, when they started out,
+it was just the urge to write.
+
+630
+01:01:09,988 --> 01:01:13,507
+Then after the second or third book, all
+they wanted was to satisfy their own vanity,
+
+631
+01:01:13,547 --> 01:01:16,506
+To stand out from the crowd,
+to be different,
+
+632
+01:01:16,546 --> 01:01:20,505
+To be able to look down
+on all the others.
+
+633
+01:01:20,541 --> 01:01:24,464
+Ah, critic's prize.
+This is a good one.
+
+634
+01:01:24,504 --> 01:01:30,023
+Of course, he had the critics
+on his side. Lucky fellow.
+
+635
+01:01:30,502 --> 01:01:32,982
+Just tell me this, Montag,
+at a guess,
+
+636
+01:01:33,022 --> 01:01:36,501
+How many literary awards were made in
+this country, on an average each year?
+
+637
+01:01:37,021 --> 01:01:42,466
+Five, ten, forty? Hmm?
+No less than 1,200.
+
+638
+01:01:42,500 --> 01:01:47,499
+Anybody that put pen to paper was
+bound to win some prize someday.
+
+639
+01:01:47,540 --> 01:01:52,538
+Ah, Robinson Crusoe. The negroes didn't
+like that because of his man, Friday.
+
+640
+01:01:54,538 --> 01:01:58,016
+And Nietzsche. Ah, Nietzsche.
+The Jews didn't like Nietzsche.
+
+641
+01:01:58,537 --> 01:02:00,501
+Now, here's a book
+about lung cancer.
+
+642
+01:02:00,537 --> 01:02:05,055
+All the cigarette smokers got into a panic,
+so for everybody's peace of mind, we burn it.
+
+643
+01:02:07,535 --> 01:02:12,533
+Ah, now this one must be very
+profound. The Ethics of Aristotle.
+
+644
+01:02:13,053 --> 01:02:17,533
+Now anybody that read that must believe
+he's a cut above anybody that hadn't.
+
+645
+01:02:17,572 --> 01:02:21,332
+You see, it's no good, Montag.
+We've all got to be alike.
+
+646
+01:02:21,372 --> 01:02:25,050
+The only way to be happy is
+for everyone to be made equal.
+
+647
+01:02:25,091 --> 01:02:29,090
+So, we must burn the books,
+Montag.
+
+648
+01:02:29,125 --> 01:02:33,048
+- All the books.
+- Sir.
+
+649
+01:02:33,568 --> 01:02:37,048
+- Yes, what's the matter?
+- Trouble with the old lady downstairs.
+
+650
+01:02:37,088 --> 01:02:39,047
+She won't leave. She won't
+leave her books, she says.
+
+651
+01:02:39,082 --> 01:02:42,047
+She won't leave her books,
+won't she? Won't she?
+
+652
+01:02:47,526 --> 01:02:50,045
+Come on now, Madam.
+We're gonna burn the house.
+
+653
+01:02:50,080 --> 01:02:53,489
+No. What do you want? Martyrdom?
+
+654
+01:02:53,524 --> 01:02:56,564
+I want to die as I've lived. Oh,
+you must have read that in there.
+
+655
+01:02:57,043 --> 01:02:59,042
+I'm not going to ask
+you again. Are you going?
+
+656
+01:02:59,078 --> 01:03:03,042
+These books were alive.
+They spoke to me.
+
+657
+01:03:03,083 --> 01:03:05,561
+Go ahead.
+
+658
+01:04:22,625 --> 01:04:26,623
+All right, that's enough. Come
+on, Madam, you've got ten seconds.
+
+659
+01:04:28,104 --> 01:04:30,623
+Fabian, ten count.
+
+660
+01:04:30,663 --> 01:04:32,587
+One.
+
+661
+01:04:32,622 --> 01:04:37,101
+Two. Three.
+
+662
+01:04:37,141 --> 01:04:40,901
+Four. Five.
+
+663
+01:04:40,941 --> 01:04:44,579
+Six. Seven.
+
+664
+01:04:44,620 --> 01:04:47,579
+Eight.
+
+665
+01:04:47,620 --> 01:04:50,878
+- Nine.
+- Nine elevens are ninety-nine.
+
+666
+01:04:50,914 --> 01:04:54,138
+Nine twelves
+are a hundred and eight.
+
+667
+01:04:54,618 --> 01:04:58,377
+- Nine thirteens are a 117.
+- She can't stay here.
+
+668
+01:04:58,416 --> 01:05:02,136
+- She refuses to leave.
+- She must be forced to leave.
+
+669
+01:05:25,171 --> 01:05:27,650
+Back there! Open up!
+
+670
+01:06:02,203 --> 01:06:04,681
+Everybody, outside!
+
+671
+01:06:08,201 --> 01:06:11,200
+Come on,
+you too, Montag!
+
+672
+01:06:16,679 --> 01:06:20,958
+Montag!
+Get out of there!
+
+673
+01:06:20,998 --> 01:06:25,197
+Montag!
+Come on, this way!
+
+674
+01:06:25,237 --> 01:06:27,717
+Montag!
+
+675
+01:06:28,717 --> 01:06:31,196
+Montag!
+
+676
+01:06:38,194 --> 01:06:42,553
+Finally, do remember to
+tolerate your friends' friends,
+
+677
+01:06:42,594 --> 01:06:46,033
+However alien and peculiar
+they may seem to you.
+
+678
+01:06:46,072 --> 01:06:49,072
+- Don't despise minorities.
+- Doesn't cousin Midge's face look swollen?
+
+679
+01:06:49,112 --> 01:06:52,031
+- That's because she's pregnant.
+- Is that why?
+
+680
+01:06:52,071 --> 01:06:55,511
+I think it's irresponsible
+to have children.
+
+681
+01:06:55,550 --> 01:06:58,549
+Somebody's got to have children,
+Jackie. They can't let the race die out.
+
+682
+01:06:58,590 --> 01:07:02,829
+Babies grow up to look
+like you. That must be fun.
+
+683
+01:07:02,869 --> 01:07:07,068
+- Strangle violence. Suppress prejudice.
+- Here's Montag.
+
+684
+01:07:07,107 --> 01:07:10,028
+Be tolerant today.
+
+685
+01:07:10,067 --> 01:07:14,026
+Being just pretty
+is not enough.
+
+686
+01:07:14,066 --> 01:07:17,586
+The wife who uses translusives
+knows better than that.
+
+687
+01:07:17,626 --> 01:07:21,064
+Try some today, but watch out
+for your friends' husbands.
+
+688
+01:07:21,104 --> 01:07:23,585
+They'll be around you
+like flies.
+
+689
+01:07:40,580 --> 01:07:43,620
+No one will ever notice
+that your chairs don't match,
+
+690
+01:07:43,655 --> 01:07:46,099
+And you'll be
+as popular as ever.
+
+691
+01:07:55,097 --> 01:07:57,062
+Would you excuse me?
+
+692
+01:07:57,097 --> 01:08:00,095
+Yes, I like her hair
+like this.
+
+693
+01:08:06,614 --> 01:08:11,093
+Come on, Montag,
+be good now.
+
+694
+01:08:11,134 --> 01:08:16,613
+Come on over and sit with us. You haven't
+seen Jackie and Doris and Helen for ages.
+
+695
+01:08:17,133 --> 01:08:20,132
+- It's very rude, you know.
+- Leave me alone.
+
+696
+01:08:20,171 --> 01:08:23,576
+Aren't you well?
+
+697
+01:08:23,611 --> 01:08:26,650
+All right,
+but it's very naughty.
+
+698
+01:08:31,130 --> 01:08:33,608
+...are being reclassified.
+
+699
+01:08:33,648 --> 01:08:36,648
+Two cells of antisocials
+were located earlier today...
+
+700
+01:08:36,688 --> 01:08:38,613
+In the western
+metropolitan area.
+
+701
+01:08:38,647 --> 01:08:41,091
+The police have declined
+to comment so far.
+
+702
+01:08:41,127 --> 01:08:44,606
+Meanwhile, the "report those
+who threaten you" campaign...
+
+703
+01:08:44,646 --> 01:08:48,126
+- met with particular success today...
+- When an old woman, cousins,
+
+704
+01:08:48,166 --> 01:08:51,644
+chose to be burned with her books
+rather than being separated from them.
+
+705
+01:08:51,685 --> 01:08:54,604
+If that's a joke,
+it's not in very good taste.
+
+706
+01:08:54,643 --> 01:08:58,163
+- You'd like to think that, wouldn't you?
+- Don't be silly, Montag.
+
+707
+01:08:58,203 --> 01:09:00,127
+Things like that
+don't happen.
+
+708
+01:09:00,162 --> 01:09:02,608
+You mean, you don't want
+to hear about it. I saw it!
+
+709
+01:09:02,642 --> 01:09:06,681
+- My husband says...
+- Oh, your husband! You don't even know where he is!
+
+710
+01:09:06,716 --> 01:09:08,646
+- Montag!
+- Of course I know.
+
+711
+01:09:08,682 --> 01:09:12,160
+- He's been called on reserve for some field training.
+- Or to fight a little war.
+
+712
+01:09:12,200 --> 01:09:14,159
+You never know, do you?
+Why do you call it that?
+
+713
+01:09:14,195 --> 01:09:16,124
+Even if he was,
+what about it?
+
+714
+01:09:16,159 --> 01:09:18,123
+He's not allowed to call
+me until it's all over.
+
+715
+01:09:18,159 --> 01:09:20,918
+- It'll only be about a week or two.
+- He'll be all right.
+
+716
+01:09:20,957 --> 01:09:23,637
+The point about wars is, if
+you want to call them that,
+
+717
+01:09:23,678 --> 01:09:26,677
+it's only other women's husbands
+who get killed. That's true.
+
+718
+01:09:26,716 --> 01:09:29,956
+I never knew anyone
+who got killed in a...
+
+719
+01:09:29,996 --> 01:09:33,155
+Not anyone whose husband
+died like that.
+
+720
+01:09:33,195 --> 01:09:36,195
+Getting run over, jumping
+out of a window, yes.
+
+721
+01:09:36,675 --> 01:09:39,194
+Like Gloria's husband
+a few nights ago.
+
+722
+01:09:39,674 --> 01:09:42,159
+But never
+that other way.
+
+723
+01:09:42,193 --> 01:09:44,673
+Anyway, that's life,
+isn't it?
+
+724
+01:09:44,713 --> 01:09:46,677
+That's what you call it.
+
+725
+01:09:46,712 --> 01:09:49,672
+You're nothing
+but zombies, all of you.
+
+726
+01:09:49,712 --> 01:09:53,190
+Just like those husbands of
+yours you don't even know anymore.
+
+727
+01:09:53,231 --> 01:09:56,231
+You're not living,
+you're just killing time!
+
+728
+01:09:56,270 --> 01:09:58,729
+Well, I think it's time to go. Yes, I...
+
+729
+01:09:58,765 --> 01:10:01,188
+Thank you. It was a lovely afternoon.
+
+730
+01:10:01,224 --> 01:10:03,669
+Really fun. Yes. Sit down!
+
+731
+01:10:03,709 --> 01:10:06,708
+- Come on, sit down. It'll only take a minute.
+- Whatever is that?
+
+732
+01:10:06,747 --> 01:10:09,187
+- Darling.
+- It's not a book?
+
+733
+01:10:09,228 --> 01:10:11,671
+That's what it is.
+It's a novel.
+
+734
+01:10:11,707 --> 01:10:13,671
+Oh, it's a book! Oh, you
+mustn't! It's against the law!
+
+735
+01:10:13,706 --> 01:10:18,185
+- Quiet. Sit down and listen.
+- Since Montag really insists.
+
+736
+01:10:18,226 --> 01:10:21,184
+But when he's through,
+I hope we can do as we please.
+
+737
+01:10:24,184 --> 01:10:26,703
+"There can be no disparity
+in marriage...
+
+738
+01:10:26,743 --> 01:10:29,143
+"like unsuitability
+of mind and purpose.
+
+739
+01:10:29,183 --> 01:10:33,147
+"I had endeavoured to adapt Dora to
+myself and found it impracticable.
+
+740
+01:10:33,181 --> 01:10:37,701
+"It remained for me to adapt myself to Dora,
+to share with her what I could and be happy.
+
+741
+01:10:38,221 --> 01:10:41,179
+"It made my second year
+much happier than my first,
+
+742
+01:10:41,220 --> 01:10:44,699
+"and, what was better still,
+made Dora's life all sunshine.
+
+743
+01:10:45,220 --> 01:10:48,178
+"But as that year wore on,
+Dora was not strong.
+
+744
+01:10:48,219 --> 01:10:52,698
+"I had hoped that lighter hands than
+mine would help to mould her character...
+
+745
+01:10:52,737 --> 01:10:57,217
+"and that a baby's smile upon her breast
+might change my child-wife to a woman.
+
+746
+01:10:57,257 --> 01:11:01,175
+"It was not to be.
+My pretty Dora.
+
+747
+01:11:01,216 --> 01:11:04,216
+"We thought she would be running
+about as she used to do in a few days.
+
+748
+01:11:04,255 --> 01:11:07,214
+"But they said wait a few days
+more, and then wait a few days more,
+
+749
+01:11:07,734 --> 01:11:10,179
+"and still she neither
+ran nor walked.
+
+750
+01:11:10,214 --> 01:11:14,213
+"I began to carry her downstairs
+every morning and upstairs every night.
+
+751
+01:11:14,252 --> 01:11:18,252
+"But sometimes when I took her up, I
+felt that she was lighter in my arms.
+
+752
+01:11:18,287 --> 01:11:20,216
+"A dead, blank feeling
+came upon me,
+
+753
+01:11:20,251 --> 01:11:23,731
+"as if I were approaching
+some frozen region...
+
+754
+01:11:23,771 --> 01:11:27,690
+"yet unseen
+that numbed my life.
+
+755
+01:11:27,729 --> 01:11:32,249
+"I avoided direct recognition of this feeling
+by any name, over any communing with myself.
+
+756
+01:11:32,288 --> 01:11:35,528
+"Until one night when it was
+very strong upon me...
+
+757
+01:11:35,569 --> 01:11:38,768
+"and my aunt had left her
+with her parting cry,
+
+758
+01:11:38,802 --> 01:11:40,732
+"'Oh, good-bye,
+little blossom.'
+
+759
+01:11:40,767 --> 01:11:45,006
+"I sat down at my desk,
+alone, and tried to think.
+
+760
+01:11:45,046 --> 01:11:49,245
+"oh, what a fatal name
+it was.
+
+761
+01:11:49,285 --> 01:11:51,209
+"and how the blossom...
+
+762
+01:11:51,245 --> 01:11:56,244
+withered in its bloom
+up in the tree."
+
+763
+01:11:56,764 --> 01:12:00,763
+I knew that's what would happen.
+It's what I've always said.
+
+764
+01:12:00,802 --> 01:12:04,762
+Life isn't like novels, novels
+and tears, novels and suicide.
+
+765
+01:12:04,802 --> 01:12:08,040
+Novels are sick.
+That was sheer cruelty, Montag.
+
+766
+01:12:08,080 --> 01:12:11,280
+You're a cruel man. All
+those words; idiotic words.
+
+767
+01:12:11,321 --> 01:12:13,724
+Evil words
+that hurt people.
+
+768
+01:12:13,760 --> 01:12:15,724
+Isn't there enough
+trouble as it is?
+
+769
+01:12:15,760 --> 01:12:18,278
+Why disturb people with that
+sort of filth? Poor Doris.
+
+770
+01:12:18,319 --> 01:12:21,238
+Bye, Linda. We were
+having such a nice party.
+
+771
+01:12:21,277 --> 01:12:24,797
+- Such a shame.
+- I can't bear to know those feelings.
+
+772
+01:12:24,837 --> 01:12:27,796
+I'd forgotten
+all about those things.
+
+773
+01:12:27,836 --> 01:12:30,276
+Oh, I'm sorry, Doris.
+
+774
+01:12:32,795 --> 01:12:35,274
+They won't come back.
+I'll be all alone.
+
+775
+01:12:35,309 --> 01:12:37,274
+I won't be popular anymore.
+
+776
+01:12:37,315 --> 01:12:39,794
+They won't use me
+in the family anymore.
+
+777
+01:12:39,833 --> 01:12:42,279
+And you made Doris cry!
+
+778
+01:12:42,314 --> 01:12:44,278
+She cried because
+it is true.
+
+779
+01:12:44,313 --> 01:12:47,312
+What are you going to do now?
+Haven't you done enough harm?
+
+780
+01:12:47,352 --> 01:12:50,572
+Leave me alone, Linda. I've
+got reading to do. Quite a lot.
+
+781
+01:12:50,607 --> 01:12:53,790
+- What's the matter with you? Aren't you well?
+- It's nothing.
+
+782
+01:12:53,830 --> 01:12:56,790
+I've got to read.
+
+783
+01:12:56,830 --> 01:13:00,828
+I've got to catch up with
+the remembrance of the past!
+
+784
+01:15:15,478 --> 01:15:18,439
+Right. You four,
+over to the house!
+
+785
+01:15:18,478 --> 01:15:21,477
+Take out the line.
+
+786
+01:15:25,477 --> 01:15:27,996
+- This is it. Hurry. Go on!
+- But what about you, uncle?
+
+787
+01:15:28,475 --> 01:15:30,441
+Don't worry.
+Get going!
+
+788
+01:15:30,476 --> 01:15:33,955
+All right.
+Take your time. I'm coming.
+
+789
+01:15:33,995 --> 01:15:36,474
+Open up! Come on!
+We know there's someone in there!
+
+790
+01:15:36,515 --> 01:15:39,473
+Please, wait a minute.
+I'm coming.
+
+791
+01:15:41,473 --> 01:15:45,992
+- Come on! Open up!
+- All right! I'm coming!
+
+792
+01:15:46,032 --> 01:15:49,472
+Come on, come on.
+
+793
+01:15:49,512 --> 01:15:52,511
+- Now, watch it.
+- You watch it.
+
+794
+01:16:20,024 --> 01:16:22,984
+- What is this?
+- I'm moving this chair.
+
+795
+01:16:23,024 --> 01:16:25,504
+I'm fed up with it
+in the middle of the room.
+
+796
+01:16:25,543 --> 01:16:28,542
+And this one...
+I'm going to put...
+
+797
+01:16:28,578 --> 01:16:31,503
+Over here.
+
+798
+01:16:31,542 --> 01:16:34,261
+There. And I'm going to
+change those curtains.
+
+799
+01:16:34,301 --> 01:16:36,986
+I've never liked them.
+I'm gonna get new ones.
+
+800
+01:16:37,021 --> 01:16:39,540
+And I'm gonna change the
+laundry basket. I've decided...
+
+801
+01:16:39,580 --> 01:16:42,985
+You're right. The chair's
+much better over there.
+
+802
+01:16:43,020 --> 01:16:47,018
+You know, you're not well. You
+were tossing and turning all night.
+
+803
+01:16:47,059 --> 01:16:49,819
+You kept me awake.
+You ought to stay home today.
+
+804
+01:16:49,859 --> 01:16:52,498
+No, no, I'm going to
+the firehouse. I must.
+
+805
+01:16:52,537 --> 01:16:55,536
+Because I don't know if I'm going
+there tomorrow or any other day.
+
+806
+01:16:55,576 --> 01:16:58,536
+- But what about your promotion?
+- My promotion?
+
+807
+01:16:58,576 --> 01:17:01,056
+That was before.
+
+808
+01:17:01,095 --> 01:17:03,535
+Montag.
+
+809
+01:17:05,535 --> 01:17:10,054
+Look, last night...
+You were talking in your sleep.
+
+810
+01:17:10,094 --> 01:17:12,018
+I don't know what.
+I didn't understand.
+
+811
+01:17:12,054 --> 01:17:17,572
+And I don't understand. What's making you
+like this? What's going on in your head?
+
+812
+01:17:17,612 --> 01:17:20,011
+I don't know,
+and I don't want to know.
+
+813
+01:17:20,052 --> 01:17:24,051
+But one thing I do want. I want
+you to get rid of those books.
+
+814
+01:17:24,091 --> 01:17:27,529
+- Take them away, Montag. Please.
+- I will. I promise.
+
+815
+01:17:27,569 --> 01:17:31,089
+- I'll do it myself if you like.
+- No, I'll do it... After I've read them.
+
+816
+01:17:31,125 --> 01:17:34,567
+No, now.
+Do it right now, Montag.
+
+817
+01:17:34,608 --> 01:17:37,567
+I'll leave you.
+
+818
+01:17:38,087 --> 01:17:40,087
+I can't live
+with those.
+
+819
+01:17:40,122 --> 01:17:42,086
+You've got
+to make a choice.
+
+820
+01:17:42,121 --> 01:17:44,531
+Answer me, Montag.
+
+821
+01:17:44,566 --> 01:17:46,565
+How can I answer, Linda?
+
+822
+01:17:46,600 --> 01:17:49,084
+I just don't know.
+
+823
+01:18:17,119 --> 01:18:21,117
+Excuse me. Do you know the girl who
+lives here with her uncle? Clarisse.
+
+824
+01:18:21,158 --> 01:18:24,562
+- They came for them.
+- Who?
+
+825
+01:18:24,598 --> 01:18:28,116
+- To take them away.
+- The police?
+
+826
+01:18:29,635 --> 01:18:32,635
+Not the police?
+The firemen?
+
+827
+01:18:36,114 --> 01:18:40,633
+They came to take them away.
+They do that now, don't they?
+
+828
+01:18:40,673 --> 01:18:43,112
+Only to question them.
+They let them come back.
+
+829
+01:18:43,153 --> 01:18:46,077
+You can't tell, can you?
+
+830
+01:18:46,112 --> 01:18:49,631
+They weren't like us.
+They were special.
+
+831
+01:18:50,152 --> 01:18:52,631
+You see over there?
+
+832
+01:18:54,150 --> 01:18:56,114
+And there.
+
+833
+01:18:56,150 --> 01:18:59,150
+And there too.
+Do you see?
+
+834
+01:18:59,189 --> 01:19:02,149
+Now look at their house.
+
+835
+01:19:02,188 --> 01:19:04,628
+There's nothing.
+
+836
+01:19:13,146 --> 01:19:16,145
+Here, you! Come here!
+What's the meaning of this?
+
+837
+01:19:16,664 --> 01:19:20,104
+Sir... Look! How often must
+I talk to you about this?
+
+838
+01:19:20,145 --> 01:19:22,663
+I talked to you about it in the
+office the other day, didn't I?
+
+839
+01:19:22,704 --> 01:19:26,663
+Why can't you do what you're
+told? Eh? Why can't you?
+
+840
+01:19:26,703 --> 01:19:29,662
+Look! Look at you!
+Look!
+
+841
+01:19:30,183 --> 01:19:32,661
+Did I tell you to...
+Haven't you got a head?
+
+842
+01:19:43,179 --> 01:19:45,179
+- Is the captain in?
+- He just stepped out.
+
+843
+01:19:45,215 --> 01:19:47,699
+- Didn't you pass him?
+- No.
+
+844
+01:20:52,684 --> 01:20:54,684
+Captain.
+
+845
+01:20:54,718 --> 01:20:56,647
+Yeah?
+
+846
+01:20:56,683 --> 01:20:59,202
+The people who were
+arrested last night, sir.
+
+847
+01:20:59,683 --> 01:21:02,201
+It's about time.
+
+848
+01:21:03,721 --> 01:21:06,201
+- How long have you been with us?
+- Three years, sir.
+
+849
+01:21:06,241 --> 01:21:08,680
+Yes, you're a good man.
+
+850
+01:21:08,720 --> 01:21:11,200
+Remind me to give you one
+of my personal medallions.
+
+851
+01:21:11,240 --> 01:21:14,719
+The likeness is remarkable.
+You'll see.
+
+852
+01:21:14,758 --> 01:21:18,198
+I, uh...
+You, uh...
+
+853
+01:21:18,718 --> 01:21:21,238
+I already
+have one, sir.
+
+854
+01:22:15,265 --> 01:22:19,225
+Oh, so it was you, was it?
+How did you get in?
+
+855
+01:22:19,265 --> 01:22:23,263
+I needed some information about some
+arrests that were made last night.
+
+856
+01:22:23,303 --> 01:22:26,224
+I wanted to see
+some identifications.
+
+857
+01:22:26,263 --> 01:22:28,783
+Ah! So Montag's handling
+the arrests now, is he?
+
+858
+01:22:28,817 --> 01:22:30,747
+Oh, no, sir,
+not at all.
+
+859
+01:22:30,783 --> 01:22:33,262
+Last night, you said. But the
+identifications wouldn't be there.
+
+860
+01:22:33,782 --> 01:22:36,260
+Not yet. In fact,
+they've just been handed to me.
+
+861
+01:22:38,261 --> 01:22:40,780
+Let's see now.
+
+862
+01:22:42,299 --> 01:22:45,299
+Let's see if they're
+amongst this lot.
+
+863
+01:22:46,779 --> 01:22:49,778
+- Oh, they're the ones!
+- I see.
+
+864
+01:22:51,778 --> 01:22:54,296
+A little young
+for him... I'd say.
+
+865
+01:22:54,337 --> 01:22:56,741
+He's her uncle.
+
+866
+01:22:56,776 --> 01:23:00,295
+- Friends of yours?
+- Oh, no, sir. I know them slightly.
+
+867
+01:23:00,336 --> 01:23:02,260
+- They live nearby.
+- Ah.
+
+868
+01:23:02,294 --> 01:23:06,294
+- And you'd like their house, is that it?
+- Yes, sir, that's it.
+
+869
+01:23:06,814 --> 01:23:08,778
+Well, the house will have
+to be requisitioned,
+
+870
+01:23:08,813 --> 01:23:11,813
+But you can't move in until
+the niece has been arrested too.
+
+871
+01:23:11,853 --> 01:23:14,812
+Oh, she...
+She's still at large then?
+
+872
+01:23:15,292 --> 01:23:17,256
+For the moment, yes.
+
+873
+01:23:17,291 --> 01:23:21,331
+Look at the identification.
+It hasn't been stamped yet.
+
+874
+01:23:21,365 --> 01:23:23,849
+It's just a matter
+of a day or two.
+
+875
+01:23:23,885 --> 01:23:26,330
+We'll get you
+your house. Hmm?
+
+876
+01:23:26,370 --> 01:23:28,809
+How did you get in?
+
+877
+01:23:29,809 --> 01:23:33,808
+Oh, now,
+what's all this about?
+
+878
+01:23:33,848 --> 01:23:37,772
+Hmm? Still shaky?
+
+879
+01:23:37,808 --> 01:23:39,771
+You shouldn't have come in.
+
+880
+01:23:39,807 --> 01:23:42,306
+Look at you.
+You look like death.
+
+881
+01:23:42,341 --> 01:23:44,806
+Some fresh air,
+that's what you need.
+
+882
+01:23:44,846 --> 01:23:48,284
+A nice bit of fresh air
+will put you right again.
+
+883
+01:23:48,325 --> 01:23:53,843
+Incidentally, if you see that niece
+wandering about this part of the world,
+
+884
+01:23:53,884 --> 01:23:56,323
+You might let us know.
+
+885
+01:23:56,842 --> 01:23:58,842
+It might expedite
+the matter of the house.
+
+886
+01:23:58,878 --> 01:24:01,322
+Of course, sir.
+
+887
+01:25:46,779 --> 01:25:49,538
+- Clarisse, I must talk to you.
+- Not here.
+
+888
+01:25:49,577 --> 01:25:52,298
+- What happened?
+- Uncle was arrested.
+
+889
+01:25:52,337 --> 01:25:54,262
+I got away.
+
+890
+01:25:54,297 --> 01:25:56,776
+But how did it happen?
+
+891
+01:25:56,815 --> 01:26:00,296
+They came last night. We
+were all asleep. Come on.
+
+892
+01:26:00,336 --> 01:26:03,814
+Look, I have to get home.
+It's terribly important.
+
+893
+01:26:07,294 --> 01:26:09,793
+Uncle woke me up and
+told me to get away.
+
+894
+01:26:09,828 --> 01:26:12,293
+I escaped through the
+skylight over the roof.
+
+895
+01:26:12,333 --> 01:26:14,812
+This is the last place
+you should have come to.
+
+896
+01:26:14,847 --> 01:26:17,811
+I know, but there's
+something I must find.
+
+897
+01:26:17,851 --> 01:26:20,811
+Look, please stay with me.
+I'm frightened.
+
+898
+01:26:20,851 --> 01:26:23,809
+All right,
+I'll stay with you.
+
+899
+01:26:37,847 --> 01:26:40,327
+- It must be here somewhere.
+- What must be here?
+
+900
+01:26:40,366 --> 01:26:43,326
+Something.
+Something I have to find.
+
+901
+01:26:43,365 --> 01:26:45,805
+- Find and destroy.
+- Let me look.
+
+902
+01:26:45,846 --> 01:26:49,844
+- You wouldn't know where to start looking.
+- It was my job.
+
+903
+01:26:50,324 --> 01:26:53,324
+- How big?
+- About this big.
+
+904
+01:26:53,844 --> 01:26:56,323
+- Papers.
+- Oh.
+
+905
+01:26:57,362 --> 01:26:59,802
+It's no use.
+
+906
+01:26:59,843 --> 01:27:04,081
+- We'll find it. Don't you worry.
+- It's a list of addresses.
+
+907
+01:27:04,121 --> 01:27:08,360
+Friends of my uncle; who they
+are and where they're hiding.
+
+908
+01:27:09,840 --> 01:27:12,359
+We'll find it.
+
+909
+01:27:18,358 --> 01:27:20,878
+What are you doing?
+
+910
+01:27:33,355 --> 01:27:35,874
+We must destroy these.
+
+911
+01:28:00,389 --> 01:28:03,868
+I always wanted
+to tell you...
+
+912
+01:28:03,907 --> 01:28:08,906
+Our meeting in the
+monorail was no accident.
+
+913
+01:28:08,947 --> 01:28:11,906
+I noticed you,
+and I followed you.
+
+914
+01:28:12,906 --> 01:28:15,905
+I thought
+you could help us.
+
+915
+01:28:16,425 --> 01:28:18,389
+I knew it when that old
+woman killed herself.
+
+916
+01:28:18,424 --> 01:28:22,903
+I realized there was a
+connection between you. Yes.
+
+917
+01:28:22,944 --> 01:28:27,423
+She was afraid she'd talk
+and give us away. Yes.
+
+918
+01:28:27,462 --> 01:28:29,867
+And I...
+
+919
+01:28:29,902 --> 01:28:32,422
+This morning, what do I do? I
+get into a little bit of trouble,
+
+920
+01:28:32,462 --> 01:28:34,901
+And I faint
+like a silly, little girl.
+
+921
+01:28:34,941 --> 01:28:40,380
+I can't be a fireman anymore.
+What is that over there?
+
+922
+01:28:40,420 --> 01:28:44,898
+That? That's a rocking chair.
+People used to sit...
+
+923
+01:28:44,939 --> 01:28:48,418
+Outside their houses on warm evenings
+and rock backwards and forwards.
+
+924
+01:28:48,938 --> 01:28:52,938
+- Oh, really?
+- Talking to anyone passing by.
+
+925
+01:28:52,972 --> 01:28:56,936
+Just talking. We'll have
+to go away from here.
+
+926
+01:28:57,936 --> 01:29:00,415
+I know a place.
+
+927
+01:29:00,455 --> 01:29:05,454
+My uncle told me what to do if
+ever he was... If ever he was taken.
+
+928
+01:29:05,935 --> 01:29:09,693
+You follow the river upstream 'til
+you come to the old steam railway line.
+
+929
+01:29:09,733 --> 01:29:13,452
+Then you go on and you go on until
+you get to where the book people live.
+
+930
+01:29:13,493 --> 01:29:17,451
+- The good people?
+- No, book. The book people.
+
+931
+01:29:17,971 --> 01:29:20,411
+You've not heard of them? No.
+
+932
+01:29:20,451 --> 01:29:25,450
+People who vanished. Some were
+arrested and managed to escape.
+
+933
+01:29:25,970 --> 01:29:30,448
+Others were released. Some didn't wait to
+be arrested. They just hid themselves away.
+
+934
+01:29:30,489 --> 01:29:35,247
+Up in the farm country; the woods and the
+hills. They live there in little groups.
+
+935
+01:29:35,288 --> 01:29:39,967
+The law can't touch them. They live quite
+peaceably and do nothing that's forbidden.
+
+936
+01:29:40,006 --> 01:29:42,966
+Though, if they came into the
+city, they might not last long.
+
+937
+01:29:43,005 --> 01:29:45,865
+But how can you
+call them book people...
+
+938
+01:29:45,901 --> 01:29:48,725
+If they don't do anything
+against the law?
+
+939
+01:29:48,764 --> 01:29:52,484
+They are books.
+Each one, men and women,
+
+940
+01:29:52,964 --> 01:29:58,482
+Everyone, commits a book they've chosen
+to memory, and they become the books.
+
+941
+01:29:58,522 --> 01:30:03,481
+Of course, every now and then,
+someone gets stopped, arrested.
+
+942
+01:30:03,521 --> 01:30:06,001
+Which is why
+they live so cautiously.
+
+943
+01:30:06,481 --> 01:30:11,998
+Because the secret they carry is the
+most precious secret in the world.
+
+944
+01:30:12,039 --> 01:30:15,998
+With them, all human knowledge
+would pass away.
+
+945
+01:30:16,039 --> 01:30:19,518
+- You must come with me.
+- Oh, no, not yet.
+
+946
+01:30:19,997 --> 01:30:24,996
+Uh, it is too soon for me.
+I was still burning books.
+
+947
+01:30:25,036 --> 01:30:28,476
+Yes, in time, perhaps.
+
+948
+01:30:28,516 --> 01:30:32,515
+But now everything in my life
+has suddenly changed.
+
+949
+01:30:32,555 --> 01:30:34,994
+I must stay in the city.
+I have a plan.
+
+950
+01:30:35,035 --> 01:30:38,033
+I will hide a book in every
+fireman's house and then denounce him.
+
+951
+01:30:38,513 --> 01:30:40,993
+The system will eat itself.
+
+952
+01:30:41,033 --> 01:30:46,512
+We must burn
+the pyromaniacs out.
+
+953
+01:30:46,552 --> 01:30:49,031
+Now we have to go.
+
+954
+01:30:52,030 --> 01:30:53,995
+Separately.
+
+955
+01:30:54,031 --> 01:30:58,029
+You to your book people
+and me to strip this off.
+
+956
+01:30:58,069 --> 01:31:00,988
+We shall see
+each other again.
+
+957
+01:31:01,029 --> 01:31:03,547
+No, we shan't.
+Why pretend we shall?
+
+958
+01:31:03,588 --> 01:31:07,028
+You are right.
+We shan't.
+
+959
+01:31:43,218 --> 01:31:46,218
+Fit and well again? Good, excellent.
+Come on, hurry, no time to lose.
+
+960
+01:31:46,259 --> 01:31:48,218
+I'm sorry, sir. I was
+on my way to tell you...
+
+961
+01:31:48,258 --> 01:31:51,216
+I shan't be staying
+with the force, sir.
+
+962
+01:31:51,257 --> 01:31:55,696
+Shan't be? But this isn't
+how things are done, Montag.
+
+963
+01:31:55,736 --> 01:31:58,735
+Not on the eve of promotion.
+I shan't be coming in tomorrow.
+
+964
+01:31:58,775 --> 01:32:02,734
+Tomorrow's another day.
+Today you're under my command.
+
+965
+01:32:02,774 --> 01:32:06,254
+Montag, I'm asking you,
+as one man to another.
+
+966
+01:32:06,294 --> 01:32:09,213
+Please. Please!
+
+967
+01:32:09,253 --> 01:32:12,252
+You can't let me down like this in front
+of the men, not in front of the others.
+
+968
+01:32:12,292 --> 01:32:18,251
+Just this one last call.
+Then you can do as you like.
+
+969
+01:32:18,291 --> 01:32:20,770
+Montag.
+
+970
+01:33:31,834 --> 01:33:34,555
+This is my house!
+
+971
+01:33:34,594 --> 01:33:37,313
+Mm-hmm, that's right.
+
+972
+01:33:45,311 --> 01:33:48,311
+- Linda!
+- I couldn't bear it.
+
+973
+01:33:48,831 --> 01:33:51,830
+I just couldn't bear it
+anymore.
+
+974
+01:33:57,349 --> 01:34:01,828
+Well, now, Montag knows
+exactly what we're looking for.
+
+975
+01:34:02,348 --> 01:34:04,793
+I think we can
+leave it to him.
+
+976
+01:34:04,827 --> 01:34:10,306
+To know how to find, one must first
+know how to hide. Isn't that so?
+
+977
+01:34:10,346 --> 01:34:13,346
+I like a man who knows his work. You
+men, just check the rest of the house.
+
+978
+01:34:19,344 --> 01:34:24,862
+Everything ready, Fabian?
+Come on, hurry it up.
+
+979
+01:34:32,381 --> 01:34:35,860
+Come on,
+bring us the sparkler.
+
+980
+01:34:36,380 --> 01:34:39,860
+As this is Montag's home, I think,
+perhaps, he should do the honours.
+
+981
+01:34:46,858 --> 01:34:50,897
+What are you doing in there!
+Have you gone mad?
+
+982
+01:34:52,376 --> 01:34:58,335
+Come on, get back in there!
+Just the books! The books!
+
+983
+01:34:58,375 --> 01:35:02,375
+What do you think you're doing?
+There's no need for that!
+
+984
+01:35:03,894 --> 01:35:06,373
+I said the books, Montag!
+
+985
+01:35:09,413 --> 01:35:11,892
+That's good.
+That's what I like to see.
+
+986
+01:35:11,927 --> 01:35:16,851
+Sweet reason.
+Novels aren't life.
+
+987
+01:35:16,891 --> 01:35:20,410
+What did Montag hope
+to get out of all this print?
+
+988
+01:35:20,891 --> 01:35:24,409
+Happiness? What a poor
+idiot you must have been.
+
+989
+01:35:24,890 --> 01:35:27,369
+This gibberish is enough
+to drive a man mad.
+
+990
+01:35:27,409 --> 01:35:31,407
+Thought you could learn from these
+how to walk on the waters, did you?
+
+991
+01:35:31,448 --> 01:35:33,373
+Montag must learn
+to think a little.
+
+992
+01:35:33,408 --> 01:35:36,927
+Consider how all these writings, all
+these recipes for happiness disagree.
+
+993
+01:35:36,966 --> 01:35:40,406
+Now let this heap of
+contradictions burn itself out.
+
+994
+01:35:40,926 --> 01:35:45,404
+You know it's we who, at this moment,
+are working for man's happiness.
+
+995
+01:35:45,445 --> 01:35:47,890
+Look, isn't that lovely?
+The pages,
+
+996
+01:35:47,925 --> 01:35:52,883
+Like flower petals or
+butterflies, luminous and black.
+
+997
+01:35:52,923 --> 01:35:58,921
+Who can explain the fascination
+of fire? What draws us to it?
+
+998
+01:35:58,961 --> 01:36:01,921
+Whether we're young or old.
+
+999
+01:37:10,505 --> 01:37:13,986
+Nothing to say?
+That's the spirit.
+
+1000
+01:37:14,505 --> 01:37:16,470
+That's real wisdom.
+He still has one.
+
+1001
+01:37:16,504 --> 01:37:21,464
+What have you got there?
+Is this your special book?
+
+1002
+01:37:21,503 --> 01:37:23,983
+It's got to be burned with the
+others, and you're under arrest.
+
+1003
+01:37:42,499 --> 01:37:45,018
+Montag.
+
+1004
+01:37:53,016 --> 01:37:55,976
+Get out of there!
+
+1005
+01:37:56,016 --> 01:38:00,014
+Everybody, out of here quick!
+He's gone mad!
+
+1006
+01:38:04,534 --> 01:38:08,013
+Right now! Go!
+
+1007
+01:38:28,849 --> 01:38:32,848
+Watch for a man running
+through the streets.
+
+1008
+01:38:32,887 --> 01:38:37,366
+Repeating.
+Calling all citizens.
+
+1009
+01:38:37,407 --> 01:38:40,806
+Wanted for murder.
+Montag.
+
+1010
+01:38:40,847 --> 01:38:43,810
+Fireman.
+
+1011
+01:38:43,846 --> 01:38:47,125
+The criminal is alone
+and on foot.
+
+1012
+01:38:47,165 --> 01:38:50,363
+Let each one stand
+at his front door.
+
+1013
+01:38:50,404 --> 01:38:53,844
+Look and listen.
+
+1014
+01:38:53,883 --> 01:38:56,882
+Watch for a man running
+through the streets.
+
+1015
+01:38:57,362 --> 01:39:01,361
+Repeating.
+Calling all citizens.
+
+1016
+01:39:01,881 --> 01:39:04,841
+Wanted for murder.
+Montag.
+
+1017
+01:39:04,880 --> 01:39:07,841
+Fireman.
+
+1018
+01:39:07,880 --> 01:39:11,378
+The criminal is alone
+and on foot.
+
+1019
+01:39:11,414 --> 01:39:14,879
+Let each one stand
+at his front door.
+
+1020
+01:39:14,918 --> 01:39:18,398
+Look and listen.
+
+1021
+01:42:22,957 --> 01:42:25,196
+I am, uh... Yes, we know who you are.
+
+1022
+01:42:25,231 --> 01:42:27,400
+You're the man of the hour. Come.
+
+1023
+01:42:27,435 --> 01:42:30,715
+Come and witness your
+own capture. My capture?
+
+1024
+01:42:30,755 --> 01:42:33,954
+That's right. Our
+beautiful cousin is being...
+
+1025
+01:42:33,993 --> 01:42:36,474
+Particularly
+entertaining today.
+
+1026
+01:42:36,514 --> 01:42:38,953
+You'll see.
+
+1027
+01:42:40,472 --> 01:42:42,437
+Oh, I beg your pardon.
+
+1028
+01:42:42,473 --> 01:42:46,471
+I am the journal of Henri
+Brilard by Stendhal.
+
+1029
+01:42:55,989 --> 01:43:00,987
+Montag is still at large,
+but time is running out fast.
+
+1030
+01:43:01,028 --> 01:43:02,953
+Ah, there it is.
+
+1031
+01:43:02,987 --> 01:43:06,226
+The aerial patrol
+has sighted the wanted man.
+
+1032
+01:43:06,267 --> 01:43:09,467
+They can't keep the viewers
+waiting much longer.
+
+1033
+01:43:09,506 --> 01:43:11,945
+The show must go on.
+They'll find somebody.
+
+1034
+01:43:11,985 --> 01:43:17,465
+Anybody will do to provide them
+with their climax.
+
+1035
+01:43:17,504 --> 01:43:21,944
+There he is.
+You can see him clearly now.
+
+1036
+01:43:21,983 --> 01:43:24,982
+There is Montag,
+running headlong into the trap,
+
+1037
+01:43:26,502 --> 01:43:29,502
+Scurrying about
+like a frightened rat.
+
+1038
+01:43:34,021 --> 01:43:38,500
+Just look at him, cousins.
+
+1039
+01:44:05,014 --> 01:44:10,013
+It's all over, cousins.
+Montag is dead.
+
+1040
+01:44:10,532 --> 01:44:15,492
+A crime against society
+has been avenged.
+
+1041
+01:44:15,531 --> 01:44:19,011
+They never showed the man's face
+properly. It was too far away, of course.
+
+1042
+01:44:19,050 --> 01:44:23,529
+Even your friends are bound
+to believe you're dead.
+
+1043
+01:44:26,009 --> 01:44:29,528
+Here. You may as well
+shed your old skin.
+
+1044
+01:44:30,048 --> 01:44:32,048
+"The moon was shining
+sulkily...
+
+1045
+01:44:34,047 --> 01:44:36,527
+"because she thought the sun...
+
+1046
+01:44:37,047 --> 01:44:40,525
+"had got no business
+to be there...
+
+1047
+01:44:41,045 --> 01:44:43,525
+"after the day was done.
+
+1048
+01:44:44,045 --> 01:44:48,044
+'It's very rude of him,'
+she said."
+
+1049
+01:44:51,564 --> 01:44:53,563
+Are you interested
+in Plato's Republic?
+
+1050
+01:44:53,597 --> 01:44:56,003
+Uh... Well, I am Plato's Republic.
+
+1051
+01:44:56,043 --> 01:45:00,041
+I'll recite myself for you whenever
+you like. Thank you very much.
+
+1052
+01:45:00,081 --> 01:45:03,041
+Now here's Wuthering Heights
+by Emily Bronte.
+
+1053
+01:45:03,081 --> 01:45:05,560
+And here's The Corsair
+by Byron.
+
+1054
+01:45:06,560 --> 01:45:09,519
+She used to be married
+to a chief of police.
+
+1055
+01:45:09,560 --> 01:45:13,518
+Now that skinny fellow is Alice
+in Wonderland by Lewis Carroll.
+
+1056
+01:45:13,558 --> 01:45:17,558
+Where's Alice through the looking-glass today?
+She should be somewhere about.
+
+1057
+01:45:17,598 --> 01:45:20,076
+There's Pilgrim's Progress
+by John Bunyan.
+
+1058
+01:45:20,117 --> 01:45:22,557
+He ate his book
+so they couldn't burn it.
+
+1059
+01:45:22,597 --> 01:45:24,521
+Waiting for Godot
+by Samuel Beckett.
+
+1060
+01:45:24,556 --> 01:45:28,074
+Oh, you see the little blonde
+coming towards us? Watch her blush.
+
+1061
+01:45:28,115 --> 01:45:31,594
+I'm Jean-Paul Sartre's The Jewish Question.
+Delighted to meet you.
+
+1062
+01:45:34,073 --> 01:45:36,594
+I'm The Martian Chronicles
+by Ray Bradbury.
+
+1063
+01:45:39,072 --> 01:45:41,037
+Allow me to introduce...
+Oh. May I?
+
+1064
+01:45:41,072 --> 01:45:45,071
+The Pickwick Papers, Charles Dickens.
+Oh, Charles Dickens.
+
+1065
+01:45:45,112 --> 01:45:47,036
+Once I read a book
+he wrote:
+
+1066
+01:45:47,070 --> 01:45:50,111
+David Copperfield. We have
+a David Copperfield amongst us.
+
+1067
+01:45:50,145 --> 01:45:53,346
+He's with another group
+in the south.
+
+1068
+01:45:53,381 --> 01:45:56,549
+I am The Prince by Machiavelli. Oh.
+
+1069
+01:45:56,589 --> 01:45:58,588
+As you see, you can't
+judge a book by its cover.
+
+1070
+01:46:08,626 --> 01:46:11,106
+I am Jane Austin's
+Pride and Prejudice.
+
+1071
+01:46:11,146 --> 01:46:13,624
+I am Jane Austin's
+Pride and Prejudice.
+
+1072
+01:46:13,660 --> 01:46:15,590
+Both of you the same book?
+
+1073
+01:46:15,625 --> 01:46:18,624
+My brother is volume one.
+My brother is volume two.
+
+1074
+01:46:18,664 --> 01:46:21,103
+It's a great pleasure
+to meet you.
+
+1075
+01:46:24,103 --> 01:46:26,067
+We call the first one Pride.
+
+1076
+01:46:26,102 --> 01:46:29,142
+The other one's Prejudice.
+I don't think they like it much.
+
+1077
+01:47:18,651 --> 01:47:22,650
+Here, we're only 50 or so, but there
+are many, many more scattered around.
+
+1078
+01:47:23,170 --> 01:47:27,168
+In abandoned railway yards,
+wandering the roads.
+
+1079
+01:47:27,209 --> 01:47:30,168
+Tramps outwardly,
+but, inwardly, libraries.
+
+1080
+01:47:30,688 --> 01:47:32,652
+Oh, it wasn't planned.
+
+1081
+01:47:32,687 --> 01:47:37,166
+It just so happened that a man here
+and a man there loved some book.
+
+1082
+01:47:37,686 --> 01:47:39,686
+And rather than lose it,
+he learned it.
+
+1083
+01:47:39,721 --> 01:47:43,131
+And we came together.
+
+1084
+01:47:43,165 --> 01:47:48,683
+We're a minority of undesirables
+crying out in the wilderness.
+
+1085
+01:47:48,723 --> 01:47:51,163
+But it won't
+always be so.
+
+1086
+01:47:51,204 --> 01:47:55,202
+One day we shall be called on, one
+by one, to recite what we've learned.
+
+1087
+01:47:55,242 --> 01:47:58,202
+And then books
+will be printed again.
+
+1088
+01:47:58,242 --> 01:48:01,160
+And when the next
+age of darkness comes,
+
+1089
+01:48:01,201 --> 01:48:05,201
+Those who come after us will
+do again as we have done.
+
+1090
+01:48:07,200 --> 01:48:09,719
+I have one with me. Yes?
+
+1091
+01:48:14,198 --> 01:48:17,157
+What is it?
+Let me see.
+
+1092
+01:48:17,198 --> 01:48:21,197
+"Tales of Mystery and
+Imagination by Edgar Allen Poe."
+
+1093
+01:48:24,196 --> 01:48:27,714
+Learn it quickly, so that
+we can burn it. You burn it?
+
+1094
+01:48:27,755 --> 01:48:31,234
+We have to, so that no one
+can take them away from us.
+
+1095
+01:48:31,714 --> 01:48:33,679
+Yes, we burn the books.
+
+1096
+01:48:33,713 --> 01:48:38,673
+But we keep them up here
+where nobody can find them.
+
+1097
+01:48:38,712 --> 01:48:43,712
+As a matter of fact, we've just
+burned the memoirs of Saint Simon.
+
+1098
+01:48:45,231 --> 01:48:48,710
+You see, Montag, that man over
+there hasn't much longer to live.
+
+1099
+01:48:48,750 --> 01:48:52,750
+He's the Weir of Hermiston by Robert
+Louis Stevenson. The boy is his nephew.
+
+1100
+01:48:52,784 --> 01:48:56,190
+He's now reciting himself,
+so the boy can become the book.
+
+1101
+01:48:56,229 --> 01:49:01,227
+"'I will be very quiet,' replied
+Archie. And I will be boldly frank.
+
+1102
+01:49:01,267 --> 01:49:06,226
+I do not love my father. I wonder
+sometimes if I do not hate him."
+
+1103
+01:49:06,747 --> 01:49:10,746
+"'I will be very quiet,' replied
+Archie. And I will be boldly frank.
+
+1104
+01:49:10,786 --> 01:49:14,745
+I do not love my father. I wonder
+sometimes if I do not hate him."
+
+1105
+01:49:14,784 --> 01:49:17,224
+"There's my shame,
+perhaps my sin.
+
+1106
+01:49:17,264 --> 01:49:20,743
+At least, and in the sight
+of god, not my fault."
+
+1107
+01:49:20,783 --> 01:49:23,223
+"There's my shame,
+perhaps my sin.
+
+1108
+01:49:23,263 --> 01:49:26,262
+At least, and in the sight
+of god, not my fault."
+
+1109
+01:49:26,302 --> 01:49:28,706
+"How was I to love him?
+
+1110
+01:49:28,741 --> 01:49:32,260
+"He has never spoken to me,
+never smiled upon me.
+
+1111
+01:49:32,301 --> 01:49:35,220
+I do not think
+he ever touched me."
+
+1112
+01:49:35,259 --> 01:49:39,259
+"How was I to love him? He has never
+spoken to me, never smiled upon me.
+
+1113
+01:49:39,299 --> 01:49:41,224
+And I do not think
+he ever touched me."
+
+1114
+01:49:41,258 --> 01:49:44,258
+"He was more afraid of death
+than of anything else.
+
+1115
+01:49:44,778 --> 01:49:47,777
+"And he died
+as he thought he would,
+
+1116
+01:49:47,817 --> 01:49:50,737
+while the first snows
+of winter fell."
+
+1117
+01:49:50,777 --> 01:49:54,536
+"He was more afraid of death
+than of anything else.
+
+1118
+01:49:54,575 --> 01:49:58,295
+- "And he died... "
+- "And he died while the first... "
+
+1119
+01:49:58,775 --> 01:50:02,294
+- "He died as he thought... "
+- "And he died as he thought... "
+
+1120
+01:50:02,334 --> 01:50:04,774
+- "As he thought he would."
+- "As he thought he would,
+
+1121
+01:50:04,813 --> 01:50:07,773
+While the first snows
+of winter fell."
+
+1122
+01:50:17,810 --> 01:50:21,549
+"'I will be very quiet,' replied
+Archie. And I will be boldly frank.
+
+1123
+01:50:21,585 --> 01:50:25,289
+"I do not love my father. I wonder
+sometimes if I do not hate him.
+
+1124
+01:50:25,329 --> 01:50:27,253
+"There's my shame,
+perhaps my sin.
+
+1125
+01:50:27,289 --> 01:50:30,289
+"At least, and in the sight
+of god, not my fault.
+
+1126
+01:50:30,328 --> 01:50:34,327
+"How was I to love him? He has never
+spoken to me, never smiled upon me.
+
+1127
+01:50:34,366 --> 01:50:38,326
+"And I do not think
+he ever touched me.
+
+1128
+01:50:41,325 --> 01:50:44,804
+"He was more afraid of death
+than of anything else.
+
+1129
+01:50:44,845 --> 01:50:47,084
+"And he died as he
+thought he would,
+
+1130
+01:50:47,118 --> 01:50:49,324
+while the first snows
+of winter fell."
+
+1131
+01:51:15,838 --> 01:51:19,357
+"I'm going to relate
+a tale full of horror."
+
+1132
+01:51:34,873 --> 01:51:38,352
+"I would gladly suppress it,
+were it not a chronicle."
+
+1133
+01:51:42,872 --> 01:51:46,131
+"Now, how much there is
+to tell... "
+
+1134
+01:51:46,166 --> 01:51:49,390
+"at that moment,
+Mr. Pickwick... "
+
