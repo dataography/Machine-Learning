@@ -1,0 +1,7 @@
+ The world is all that is the case.
+ What is the case a fact is the existence of states of affairs.
+ A logical picture of facts is a thought.
+ A thought is a proposition with a sense.
+ A proposition is a truth function of elementary propositions. (An elementary proposition is a truth function of itself.)
+ The general form of a truth function is [p, E, N(E)]. This is the general form of a proposition.
+ What we cannot speak about we must pass over in silence.
