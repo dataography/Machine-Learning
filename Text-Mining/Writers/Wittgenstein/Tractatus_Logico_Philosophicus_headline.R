@@ -64,7 +64,7 @@ ord
 
   
 #  Start by removing sparse terms (if any) 
-dtms <- removeSparseTerms(dtm, 0.1) # This makes a matrix that is 10% empty space, maximum.
+#dtms <- removeSparseTerms(dtm, 0.1) # This makes a matrix that is 10% empty space, maximum.
 # in our case, no sparse entry
 # <<DocumentTermMatrix (documents: 1, terms: 8659)>>
 #   Non-/sparse entries: 8659/0
@@ -83,7 +83,7 @@ dtms <- removeSparseTerms(dtm, 0.1) # This makes a matrix that is 10% empty spac
 
 
   
-# tune "50" according to your data.  
+# tune lowfreq and highfreq according to your data.  
 f<-findFreqTerms(dtm, lowfreq=1, highfreq = 1000)   
 plot(tdm.as.matrix)
 #
