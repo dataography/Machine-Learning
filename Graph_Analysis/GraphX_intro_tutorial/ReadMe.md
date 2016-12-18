@@ -7,6 +7,6 @@ _Books:_
 1-Advanced Analytic with Spark
 
 _Websites:_
-1-Databricks 
-2-Coursera
-3-Big Data University
+1-Databricks  
+2-Coursera  
+3-Big Data University   
