@@ -5,9 +5,9 @@
 // Various websites. StackOverFlow etc.
 
 
-//***************************
+// ***************************
 // CREATE A GRAPH
-//***************************
+// ***************************
 
 
 Five Nodes
@@ -54,9 +54,9 @@ create
 (N4) - [:ToyRelation {relationship: 'friend'}] -> (N5)
 
 
-//***************************
+// ***************************
 // VIEW or DELETE OPERATIONS ON A GRAPH
-//***************************
+// ***************************
 
 View the resulting graph
 match (n:ToyNode)-[r]-(m) return n, r, m
@@ -83,9 +83,9 @@ match (n)-[r:ToyRelation]-() delete r,n;
 match (n:ToyNode {name:'Julian'}) return n
 
 
-//***************************
+// ***************************
 // ADDITION AND MODIFICATION ON A GRAPH
-//***************************
+// ***************************
 
 
 //Adding a Node Correctly
@@ -120,10 +120,10 @@ MERGE (n) -[:TO {dist:line.distance}]-> (m)
 :config maxNeighbours: 10000
 
 
-//***************************
+// ***************************
 // GENERATION of DESCRIPTIVE STATISTICS OF A GRAPH,
 // ANALYSE THE PROPERTIES OF GRAPH
-//***************************
+// ***************************
 
 
 //Counting the number of nodes
@@ -178,9 +178,9 @@ return n, r, m
 
 
 
-//***************************
+// ***************************
 // PATH ANALYSIS ON A GRAPH
-//***************************
+// ***************************
 
 //Viewing the graph
 match (n:MyNode)-[r]->(m)
@@ -296,9 +296,9 @@ return distinct n, r, m
 
 
 
-//***************************
+// ***************************
 // CONNECTIVITY ANALYSIS OF A GRAPH 
-//***************************
+// ***************************
 //Viewing the graph
 match (n:MyNode)-[r]->(m)
 return n, r, m
