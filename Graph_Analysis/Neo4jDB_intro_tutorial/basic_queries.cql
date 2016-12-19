@@ -1,8 +1,26 @@
 
 // This examples and codes are the combination of :
+// Neo4j offical website
 // Coursera classes
 // Graph Database book
 // Various websites. StackOverFlow etc.
+
+
+// **************************
+// GET STARTED WITH SOME CONFIGURATION INFORMATION AND SETTING
+// ***************************
+
+// To see the key system health and status metric
+:play sysinfo
+
+// To see the indexes or constraints
+:schema
+
+
+// To increase the heap size, go to neo4j.conf file and edit memory size you want to allocate:
+// For more information https://neo4j.com/developer/guide-performance-tuning/
+dbms.memory.heap.initial_size=8G
+dbms.memory.heap.max_size=8G
 
 
 // ***************************
@@ -215,7 +233,6 @@ WHERE source.Name='A' AND destination.Name = 'P'
 RETURN EXTRACT(n IN NODES(p)| n.Name) AS Paths
 
 //All Shortest Paths with Path Conditions:
-
 MATCH p = allShortestPaths((source)-[r:TO*]->(destination))
 WHERE source.Name='A' AND destination.Name = 'P' AND LENGTH(NODES(p)) > 5
 RETURN EXTRACT(n IN NODES(p)| n.Name) AS Paths,length(p)
@@ -236,35 +253,32 @@ match p=shortestPath((n)-[*]->(m))
 return n.Name, m.Name, length(p)
 order by length(p) desc limit 1
 
-//Extracting and computing with node and properties:
-
+//Extracting and computing with node and properties of edges.
 match p=(a)-[:TO*]-(c)
 where a.Name='H' and c.Name='P'
-return extract(n in nodes(p)|n.Name) as Nodes, length(p) as pathLength,
-reduce(s=0, e in relationships(p)| s + toInt(e.dist)) as pathDist limit 1
+return
+extract(n in nodes(p)|n.Name) as Nodes,
+length(p) as pathLength,
+reduce(s=0, e in relationships(p)| s + toInt(e.dist)) as pathDist limit 7
 
-//Dijkstra's algorithm for a specific target node:
-
-MATCH (from: MyNode {Name:'A'}), (to: MyNode {Name:'P'}),
+//Dijkstra's algorithm for a specific target node: weight of the shortest paths
+MATCH (from: MyNode {Name:'H'}), (to: MyNode {Name:'P'}),
 path = shortestPath((from)-[:TO*]->(to))
 WITH REDUCE(dist = 0, rel in rels(path) | dist + toInt(rel.dist)) AS distance, path
 RETURN path, distance
 
 //Dijkstra's algorithm SSSP:
-
 MATCH (from: MyNode {Name:'A'}), (to: MyNode),
 path = shortestPath((from)-[:TO*]->(to))
 WITH REDUCE(dist = 0, rel in rels(path) | dist + toInt(rel.dist)) AS distance, path, from, to
 RETURN from, to, path, distance order by distance desc
 
 //Graph not containing a selected node:
-
 match (n)-[r:TO]->(m)
 where n.Name <> 'D' and m.Name <> 'D'
 return n, r, m
 
 //Shortest path over a Graph not containing a selected node:
-
 match p=shortestPath((a {Name: 'A'})-[:TO*]-(b {Name: 'P'}))
 where not('D' in (extract(n in nodes(p)|n.Name)))
 return p, length(p)
@@ -297,7 +311,7 @@ return distinct n, r, m
 
 
 // ***************************
-// CONNECTIVITY ANALYSIS OF A GRAPH 
+// CONNECTIVITY ANALYSIS OF A GRAPH
 // ***************************
 //Viewing the graph
 match (n:MyNode)-[r]->(m)
